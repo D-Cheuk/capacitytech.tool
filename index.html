@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Atestado de Capacidade Técnica</title>
+<style>
+:root{--bg:#f3f6f4;--card:#fff;--tx:#14231c;--mut:#566860;--ac:#0f6b4f;--bd:#cfdad4;--er:#a4281c}
+@media (prefers-color-scheme:dark){:root{--bg:#0e1612;--card:#16221c;--tx:#e6efe9;--mut:#9bb0a5;--ac:#4fc79c;--bd:#2a3b33;--er:#ff8d80}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.5 Georgia,"Times New Roman",serif}
+main{max-width:640px;margin:0 auto;padding:24px 16px 64px}
+h1{font-size:1.6rem;line-height:1.2;margin:8px 0 4px}
+p.sub{color:var(--mut);margin:0 0 20px}
+section{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:18px;margin-bottom:16px}
+h2{font-size:1.1rem;margin:0 0 12px}
+label{display:block;font:600 .85rem system-ui,sans-serif;margin:12px 0 4px}
+input,select,button{width:100%;font:1rem system-ui,sans-serif;padding:10px;border:1px solid var(--bd);border-radius:6px;background:var(--bg);color:var(--tx)}
+button{background:var(--ac);color:#fff;border:0;font-weight:600;cursor:pointer;margin-top:14px}
+button.sec{background:transparent;color:var(--ac);border:1px solid var(--ac)}
+:focus-visible{outline:3px solid var(--ac);outline-offset:2px}
+.msg{color:var(--er);font:.9rem system-ui,sans-serif;min-height:1.2em;margin-top:8px}
+dl{margin:0;display:grid;grid-template-columns:max-content 1fr;gap:6px 14px}
+dt{color:var(--mut)} dd{margin:0}
+ul{margin:0;padding-left:18px}
+[hidden]{display:none!important}
+</style>
+</head>
+<body>
+<main>
+  <h1>Atestado de Capacidade Técnica</h1>
+  <p class="sub">Informe a senha, selecione a escola e baixe o atestado preenchido.</p>
+
+  <section id="s1">
+    <h2>Acesso</h2>
+    <label for="senha">Senha</label>
+    <input id="senha" autocomplete="off" spellcheck="false">
+    <button id="entrar">Entrar</button>
+    <div class="msg" id="m1" role="alert"></div>
+  </section>
+
+  <section id="s2" hidden>
+    <h2>Seus dados</h2>
+    <label for="nome">Nome completo</label><input id="nome">
+    <label for="cargo">Cargo</label><input id="cargo" placeholder="Ex.: DIRETORA">
+    <label for="cpf">CPF</label><input id="cpf" inputmode="numeric" maxlength="14">
+  </section>
+
+  <section id="s3" hidden>
+    <h2>Escola</h2>
+    <label for="uf">Estado</label><select id="uf"></select>
+    <label for="esc">Escola</label><select id="esc"></select>
+    <label for="end">Endereço da escola</label><input id="end" placeholder="Ex.: SGAN Quadra 907, Asa Norte">
+  </section>
+
+  <section id="s4" hidden>
+    <h2>Confira os dados</h2>
+    <div id="resumo"></div>
+    <button id="gerar">Baixar atestado (.docx)</button>
+    <button id="corrigir" class="sec">Solicitar correção por e-mail</button>
+    <div class="msg" id="m4" role="alert"></div>
+  </section>
+</main>
+
+<script src="lib/pizzip.min.js"></script>
+<script src="lib/docxtemplater.js"></script>
+<script>
+const EMAIL = "contato@rbcip.org";           // destino dos pedidos de correção
+const $ = i => document.getElementById(i);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const u8 = s => Uint8Array.from(atob(s.replace(/-/g,"+").replace(/_/g,"/")), c => c.charCodeAt(0));
+let DATA, PUB, SEL;
+
+if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");
+
+async function carregar() {
+  try {
+    const [d, k] = await Promise.all([
+      fetch("data.json", {cache: "no-cache"}).then(r => r.json()),
+      fetch("pubkey.json", {cache: "no-cache"}).then(r => r.json())]);
+    DATA = d; PUB = k.pub; return true;
+  } catch { return false; }
+}
+
+async function validar(t) {
+  let b;
+  try { b = u8(t.trim()); } catch { return "Senha inválida."; }
+  if (b.length !== 70) return "Senha inválida.";
+  const key = await crypto.subtle.importKey("raw", u8(PUB), {name:"ECDSA", namedCurve:"P-256"}, false, ["verify"]);
+  const ok = await crypto.subtle.verify({name:"ECDSA", hash:"SHA-256"}, key, b.slice(6), b.slice(0, 6));
+  if (!ok) return "Senha inválida.";
+  const dv = new DataView(b.buffer);
+  if (dv.getUint32(0) * 1000 < Date.now()) return "Senha expirada. Solicite uma nova.";
+  if (dv.getUint16(4) < DATA.ver_min) return "Senha revogada. Solicite uma nova.";
+  return "";
+}
+
+$("entrar").onclick = async () => {
+  if (!await carregar() && !DATA) { $("m1").textContent = "Dados indisponíveis. Conecte-se à internet uma vez para baixá-los."; return; }
+  const erro = await validar($("senha").value);
+  $("m1").textContent = erro;
+  if (erro) return;
+  $("s1").hidden = true; $("s2").hidden = false; $("s3").hidden = false;
+  const ufs = [...new Set(DATA.escolas.map(e => e.estado))].sort();
+  $("uf").innerHTML = '<option value="">Selecione</option>' + ufs.map(u => `<option>${esc(u)}</option>`).join("");
+  $("esc").innerHTML = '<option value="">Selecione o estado primeiro</option>';
+};
+
+$("uf").onchange = () => {
+  $("s4").hidden = true;
+  const l = DATA.escolas.map((e, i) => [e, i]).filter(([e]) => e.estado === $("uf").value)
+    .sort((a, b) => a[0].escola.localeCompare(b[0].escola, "pt"));
+  $("esc").innerHTML = '<option value="">Selecione</option>' +
+    l.map(([e, i]) => `<option value="${i}">${esc(e.escola)} — ${esc(e.municipio)}</option>`).join("");
+};
+
+$("esc").onchange = () => {
+  if ($("esc").value === "") { $("s4").hidden = true; return; }
+  SEL = DATA.escolas[+$("esc").value];
+  $("resumo").innerHTML = `<dl>
+    <dt>Estado</dt><dd>${esc(SEL.estado)}</dd>
+    <dt>Município</dt><dd>${esc(SEL.municipio)}</dd>
+    <dt>Escola</dt><dd>${esc(SEL.escola)}</dd>
+    <dt>Cursos</dt><dd><ul>${SEL.cursos.map(c => `<li>${esc(c.nome)} (${c.qtd})</li>`).join("")}</ul></dd>
+    <dt>Formados</dt><dd>${SEL.qtd}</dd>
+    <dt>Período</dt><dd>${SEL.inicio} a ${SEL.fim}</dd></dl>`;
+  $("s4").hidden = false;
+};
+
+$("cpf").oninput = e => {
+  const d = e.target.value.replace(/\D/g, "").slice(0, 11);
+  e.target.value = d.replace(/(\d{3})(\d)/, "$1.$2").replace(/(\d{3})(\d)/, "$1.$2").replace(/(\d{3})(\d{1,2})$/, "$1-$2");
+};
+
+const juntar = a => a.length < 2 ? a.join("") : a.slice(0, -1).join(", ") + " e " + a.at(-1);
+
+$("gerar").onclick = async () => {
+  const nome = $("nome").value.trim(), cargo = $("cargo").value.trim(), cpf = $("cpf").value;
+  if (!nome || !cargo || cpf.replace(/\D/g, "").length !== 11) { $("m4").textContent = "Preencha nome, cargo e CPF (11 dígitos)."; return; }
+  $("m4").textContent = "";
+  try {
+    const buf = await fetch("modelo.docx").then(r => r.arrayBuffer());
+    const doc = new docxtemplater(new PizZip(buf), {paragraphLoop: true, linebreaks: true});
+    doc.render({nome: nome.toUpperCase(), cargo: cargo.toUpperCase(), cpf,
+      escola: SEL.escola, municipio: SEL.municipio, estado: SEL.estado, endereco: $("end").value.trim(),
+      qtd: SEL.qtd, inicio: SEL.inicio, fim: SEL.fim,
+      cursos: SEL.cursos, cursos_texto: juntar(SEL.cursos.map(c => c.nome))});
+    const blob = doc.getZip().generate({type: "blob", mimeType: "application/vnd.openxmlformats-officedocument.wordprocessingml.document"});
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = `Atestado_${SEL.escola.replace(/[^\w]+/g, "_")}.docx`;
+    a.click(); URL.revokeObjectURL(a.href);
+  } catch (e) { $("m4").textContent = "Não foi possível gerar o atestado: " + e.message; }
+};
+
+$("corrigir").onclick = () => {
+  const corpo = `Escola: ${SEL.escola}\nMunicípio/Estado: ${SEL.municipio} / ${SEL.estado}\nFormados: ${SEL.qtd}\nPeríodo: ${SEL.inicio} a ${SEL.fim}\nCursos: ${juntar(SEL.cursos.map(c => c.nome))}\n\nDado a corrigir e valor correto:\n`;
+  location.href = `mailto:${EMAIL}?subject=${encodeURIComponent("Correção de dados – " + SEL.escola)}&body=${encodeURIComponent(corpo)}`;
+};
+</script>
+</body>
+</html>
