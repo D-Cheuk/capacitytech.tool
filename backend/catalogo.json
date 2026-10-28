@@ -1,0 +1,55 @@
+{
+  "Robótica": {
+    "nome": "Robótica",
+    "frase": "robótica",
+    "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+    ]
+  },
+  "Montagem e Configuração de Computadores de Alto Desempenho (PC GAMER)": {
+    "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+    "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+    "topicos": [
+      "Compatibilidade de hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+    ]
+  },
+  "Manutenção de Celulares": {
+    "nome": "Manutenção de celulares",
+    "frase": "manutenção de celular",
+    "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+    ]
+  },
+  "Desenvolvimento de Jogos": {
+    "nome": "Desenvolvimento de jogos",
+    "frase": "desenvolvimento de jogos",
+    "topicos": [
+      "Lógica de programação",
+      "Criação de personagens",
+      "Animações",
+      "Level design",
+      "Jogos na prática"
+    ]
+  },
+  "Programação em Python": {
+    "nome": "Programação em Python",
+    "frase": "programação em Python",
+    "topicos": [
+      "Introdução à linguagem de programação",
+      "Comandos de entrada/saída",
+      "Variáveis e seus tipos",
+      "Estruturas condicionais"
+    ]
+  }
+}
