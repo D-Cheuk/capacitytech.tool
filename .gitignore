@@ -1,1 +1,4 @@
-
+backend/private_key.pem
+backend/fonte.*
+docs/fonte.*
+__pycache__/
