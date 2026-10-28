@@ -1,0 +1,53 @@
+{
+ "ver_min": 1,
+ "gerado": "28/10/2026 19:19",
+ "escolas": [
+  {
+   "estado": "Distrito Federal",
+   "municipio": "Núcleo Bandeirante",
+   "escola": "URSO BRANCO",
+   "qtd": 2,
+   "inicio": "14/11/2024",
+   "fim": "29/12/2024",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 2,
+     "inicio": "14/11/2024",
+     "fim": "29/12/2024"
+    }
+   ]
+  },
+  {
+   "estado": "Pernambuco",
+   "municipio": "Petrolina",
+   "escola": "SEST SENAT",
+   "qtd": 1,
+   "inicio": "15/02/2026",
+   "fim": "29/08/2026",
+   "cursos": [
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 1,
+     "inicio": "15/02/2026",
+     "fim": "29/08/2026"
+    }
+   ]
+  }
+ ]
+}
