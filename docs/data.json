@@ -1,0 +1,5482 @@
+{
+ "ver_min": 1,
+ "gerado": "30/10/2026 13:16",
+ "escolas": [
+  {
+   "estado": "Distrito Federal",
+   "municipio": "Asa Norte",
+   "escola": "CASA DE ISMAEL",
+   "qtd": 229,
+   "inicio": "06/12/2024",
+   "fim": "20/12/2024",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 54,
+     "inicio": "09/12/2024",
+     "fim": "20/12/2024"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 129,
+     "inicio": "06/12/2024",
+     "fim": "20/12/2024"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 46,
+     "inicio": "06/12/2024",
+     "fim": "20/12/2024"
+    }
+   ]
+  },
+  {
+   "estado": "Distrito Federal",
+   "municipio": "Asa Norte",
+   "escola": "CEF 07",
+   "qtd": 53,
+   "inicio": "04/11/2024",
+   "fim": "08/11/2024",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 30,
+     "inicio": "04/11/2024",
+     "fim": "08/11/2024"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 14,
+     "inicio": "04/11/2024",
+     "fim": "08/11/2024"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 9,
+     "inicio": "04/11/2024",
+     "fim": "08/11/2024"
+    }
+   ]
+  },
+  {
+   "estado": "Distrito Federal",
+   "municipio": "Asa Norte",
+   "escola": "GISNO",
+   "qtd": 66,
+   "inicio": "02/10/2024",
+   "fim": "27/09/2024",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 2,
+     "inicio": "05/10/2024",
+     "fim": "27/09/2024"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 49,
+     "inicio": "02/10/2024",
+     "fim": "27/09/2024"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 15,
+     "inicio": "05/10/2024",
+     "fim": "27/09/2024"
+    }
+   ]
+  },
+  {
+   "estado": "Distrito Federal",
+   "municipio": "Asa Sul",
+   "escola": "SETOR OESTE",
+   "qtd": 71,
+   "inicio": "16/10/2024",
+   "fim": "20/12/2024",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 60,
+     "inicio": "16/10/2024",
+     "fim": "20/12/2024"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 11,
+     "inicio": "19/11/2024",
+     "fim": "18/10/2024"
+    }
+   ]
+  },
+  {
+   "estado": "Distrito Federal",
+   "municipio": "Ceilândia",
+   "escola": "BOMBEIRO MIRIM",
+   "qtd": 143,
+   "inicio": "14/04/2025",
+   "fim": "02/05/2025",
+   "cursos": [
+    {
+     "nome": "Informática Básica",
+     "frase": "informática básica",
+     "topicos": [
+      "Noções de digitação",
+      "Uso do teclado",
+      "Configurações básicas do sistema operacional Windows",
+      "Instalação de programas e segurança digital"
+     ],
+     "qtd": 42,
+     "inicio": "15/04/2025",
+     "fim": "02/05/2025"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 101,
+     "inicio": "14/04/2025",
+     "fim": "02/05/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Distrito Federal",
+   "municipio": "Ceilândia",
+   "escola": "CENTRO EDUCACIONAL 06",
+   "qtd": 192,
+   "inicio": "10/03/2025",
+   "fim": "28/03/2025",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 3,
+     "inicio": "13/03/2025",
+     "fim": "28/03/2025"
+    },
+    {
+     "nome": "Programação em Python",
+     "frase": "programação em Python",
+     "topicos": [
+      "Introdução à linguagem Python",
+      "Estruturas básicas",
+      "Condicionais e de repetição",
+      "Operações aritméticas e operadores de comparação"
+     ],
+     "qtd": 11,
+     "inicio": "21/03/2025",
+     "fim": "28/03/2025"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 178,
+     "inicio": "10/03/2025",
+     "fim": "28/03/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Distrito Federal",
+   "municipio": "Cruzeiro Novo",
+   "escola": "CEFAB",
+   "qtd": 92,
+   "inicio": "03/10/2024",
+   "fim": "01/11/2024",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 15,
+     "inicio": "03/10/2024",
+     "fim": "04/10/2024"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 53,
+     "inicio": "03/10/2024",
+     "fim": "01/11/2024"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 24,
+     "inicio": "03/10/2024",
+     "fim": "04/10/2024"
+    }
+   ]
+  },
+  {
+   "estado": "Distrito Federal",
+   "municipio": "Itapõa",
+   "escola": "CED 01 ITAPÕA",
+   "qtd": 68,
+   "inicio": "24/08/2026",
+   "fim": "28/08/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 32,
+     "inicio": "24/08/2026",
+     "fim": "28/08/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 36,
+     "inicio": "24/08/2026",
+     "fim": "28/08/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Distrito Federal",
+   "municipio": "Lago Norte",
+   "escola": "CEDLAN",
+   "qtd": 78,
+   "inicio": "11/09/2024",
+   "fim": "27/09/2024",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 46,
+     "inicio": "11/09/2024",
+     "fim": "27/09/2024"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 32,
+     "inicio": "17/09/2024",
+     "fim": "27/09/2024"
+    }
+   ]
+  },
+  {
+   "estado": "Distrito Federal",
+   "municipio": "Núcleo Bandeirante",
+   "escola": "URSO BRANCO",
+   "qtd": 530,
+   "inicio": "11/11/2024",
+   "fim": "20/12/2024",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 166,
+     "inicio": "11/11/2024",
+     "fim": "29/11/2024"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 364,
+     "inicio": "11/11/2024",
+     "fim": "20/12/2024"
+    }
+   ]
+  },
+  {
+   "estado": "Distrito Federal",
+   "municipio": "Recanto das Emas",
+   "escola": "CENTRO DE ENSINO FUNDAMENTAL 101",
+   "qtd": 163,
+   "inicio": "20/05/2025",
+   "fim": "30/05/2025",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 8,
+     "inicio": "20/05/2025",
+     "fim": "23/05/2025"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 155,
+     "inicio": "20/05/2025",
+     "fim": "30/05/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Distrito Federal",
+   "municipio": "Setor Militar Urbano",
+   "escola": "BASE ADMINISTRATIVA DO QUARTEL GENERAL DO EXÉRCITO",
+   "qtd": 192,
+   "inicio": "12/01/2026",
+   "fim": "06/02/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 85,
+     "inicio": "12/01/2026",
+     "fim": "06/02/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 83,
+     "inicio": "12/01/2026",
+     "fim": "06/02/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 24,
+     "inicio": "12/01/2026",
+     "fim": "06/02/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Distrito Federal",
+   "municipio": "Sobradinho",
+   "escola": "CEF 04 DE SOBRADINHO",
+   "qtd": 227,
+   "inicio": "06/05/2025",
+   "fim": "16/05/2025",
+   "cursos": [
+    {
+     "nome": "Informática Básica",
+     "frase": "informática básica",
+     "topicos": [
+      "Noções de digitação",
+      "Uso do teclado",
+      "Configurações básicas do sistema operacional Windows",
+      "Instalação de programas e segurança digital"
+     ],
+     "qtd": 21,
+     "inicio": "07/05/2025",
+     "fim": "09/05/2025"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 163,
+     "inicio": "06/05/2025",
+     "fim": "16/05/2025"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 43,
+     "inicio": "13/05/2025",
+     "fim": "16/05/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Distrito Federal",
+   "municipio": "Sobradinho",
+   "escola": "CEF 05 DE SOBRADINHO",
+   "qtd": 263,
+   "inicio": "31/03/2025",
+   "fim": "11/04/2025",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 86,
+     "inicio": "31/03/2025",
+     "fim": "04/04/2025"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 88,
+     "inicio": "31/03/2025",
+     "fim": "11/04/2025"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 89,
+     "inicio": "31/03/2025",
+     "fim": "11/04/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Distrito Federal",
+   "municipio": "Vila Estrutural",
+   "escola": "CED 01 ESTRUTURAL",
+   "qtd": 174,
+   "inicio": "21/10/2024",
+   "fim": "20/12/2024",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 64,
+     "inicio": "21/10/2024",
+     "fim": "01/11/2024"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 110,
+     "inicio": "21/10/2024",
+     "fim": "20/12/2024"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "Codó",
+   "escola": "ADOALDO GOMES",
+   "qtd": 30,
+   "inicio": "11/12/2025",
+   "fim": "12/12/2025",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 30,
+     "inicio": "11/12/2025",
+     "fim": "12/12/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "Codó",
+   "escola": "ALEXANDRE COSTA",
+   "qtd": 27,
+   "inicio": "02/12/2025",
+   "fim": "05/12/2025",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 27,
+     "inicio": "02/12/2025",
+     "fim": "05/12/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "Codó",
+   "escola": "COLÉGIO MILITAR 2 DE JULHO NAGIB BUZAR",
+   "qtd": 537,
+   "inicio": "21/10/2025",
+   "fim": "06/02/2026",
+   "cursos": [
+    {
+     "nome": "Criação de Design com Canva",
+     "frase": "criação de design com Canva",
+     "topicos": [
+      "Uso de templates",
+      "Manipulação de elementos gráficos e texto",
+      "Criação de artes para mídias sociais",
+      "Formatos de exportação"
+     ],
+     "qtd": 1,
+     "inicio": "07/11/2025",
+     "fim": "14/11/2025"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 76,
+     "inicio": "21/10/2025",
+     "fim": "30/01/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 460,
+     "inicio": "21/10/2025",
+     "fim": "06/02/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "Codó",
+   "escola": "EM RENÊ BAYMA",
+   "qtd": 86,
+   "inicio": "01/12/2025",
+   "fim": "13/02/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 59,
+     "inicio": "01/12/2025",
+     "fim": "13/02/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 27,
+     "inicio": "10/02/2026",
+     "fim": "13/02/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "Codó",
+   "escola": "GOVERNADOR ARCHER",
+   "qtd": 60,
+   "inicio": "10/12/2025",
+   "fim": "12/12/2025",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 33,
+     "inicio": "10/12/2025",
+     "fim": "05/12/2025"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 27,
+     "inicio": "10/12/2025",
+     "fim": "12/12/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "Codó",
+   "escola": "HENRIQUE FIGUEIREDO",
+   "qtd": 61,
+   "inicio": "01/12/2025",
+   "fim": "12/12/2025",
+   "cursos": [
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 61,
+     "inicio": "01/12/2025",
+     "fim": "12/12/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "Codó",
+   "escola": "MUNDOCA ALVIM",
+   "qtd": 54,
+   "inicio": "09/02/2026",
+   "fim": "13/02/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 32,
+     "inicio": "09/02/2026",
+     "fim": "13/02/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 22,
+     "inicio": "09/02/2026",
+     "fim": "13/02/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "Codó",
+   "escola": "REMY ARCHER",
+   "qtd": 31,
+   "inicio": "01/12/2025",
+   "fim": "05/12/2025",
+   "cursos": [
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 31,
+     "inicio": "01/12/2025",
+     "fim": "05/12/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "Codó",
+   "escola": "ROBERTO FRANÇA",
+   "qtd": 26,
+   "inicio": "08/01/2026",
+   "fim": "16/01/2026",
+   "cursos": [
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 26,
+     "inicio": "08/01/2026",
+     "fim": "16/01/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "Codó",
+   "escola": "SARNEY COSTA",
+   "qtd": 116,
+   "inicio": "28/10/2025",
+   "fim": "28/11/2025",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 64,
+     "inicio": "25/11/2025",
+     "fim": "28/11/2025"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 52,
+     "inicio": "28/10/2025",
+     "fim": "28/11/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "Codó",
+   "escola": "TALMIR",
+   "qtd": 30,
+   "inicio": "11/12/2025",
+   "fim": "12/12/2025",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 30,
+     "inicio": "11/12/2025",
+     "fim": "12/12/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "Codó",
+   "escola": "UIM EVANGÉLICA ESTEVAM ÂNGELO DE SOUZA",
+   "qtd": 91,
+   "inicio": "22/10/2025",
+   "fim": "21/11/2025",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 45,
+     "inicio": "17/11/2025",
+     "fim": "21/11/2025"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 46,
+     "inicio": "22/10/2025",
+     "fim": "21/11/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "Santa Inês",
+   "escola": "BANDEIRA TRIBUZZI",
+   "qtd": 58,
+   "inicio": "18/03/2026",
+   "fim": "03/04/2026",
+   "cursos": [
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 58,
+     "inicio": "18/03/2026",
+     "fim": "03/04/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "Santa Inês",
+   "escola": "CMCB",
+   "qtd": 45,
+   "inicio": "23/03/2026",
+   "fim": "10/04/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 24,
+     "inicio": "23/03/2026",
+     "fim": "10/04/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 21,
+     "inicio": "23/03/2026",
+     "fim": "03/04/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "Santa Inês",
+   "escola": "CMT JOÃO PAULO II",
+   "qtd": 108,
+   "inicio": "19/03/2026",
+   "fim": "10/04/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 31,
+     "inicio": "19/03/2026",
+     "fim": "27/03/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 77,
+     "inicio": "31/03/2026",
+     "fim": "10/04/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "Santa Inês",
+   "escola": "COMUNIDADE",
+   "qtd": 49,
+   "inicio": "09/02/2026",
+   "fim": "17/04/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 4,
+     "inicio": "09/02/2026",
+     "fim": "27/03/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 45,
+     "inicio": "16/03/2026",
+     "fim": "17/04/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "Santa Inês",
+   "escola": "DARCY RIBEIRO",
+   "qtd": 71,
+   "inicio": "20/03/2026",
+   "fim": "27/03/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 22,
+     "inicio": "24/03/2026",
+     "fim": "27/03/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 49,
+     "inicio": "20/03/2026",
+     "fim": "27/03/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "Santa Inês",
+   "escola": "ESCOLA CORAÇÃO DE JESUS",
+   "qtd": 87,
+   "inicio": "16/03/2026",
+   "fim": "20/03/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 53,
+     "inicio": "17/03/2026",
+     "fim": "20/03/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 34,
+     "inicio": "16/03/2026",
+     "fim": "20/03/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "Santa Inês",
+   "escola": "JOÃO ALÍPIO",
+   "qtd": 29,
+   "inicio": "06/04/2026",
+   "fim": "10/04/2026",
+   "cursos": [
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 29,
+     "inicio": "06/04/2026",
+     "fim": "10/04/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "Santa Inês",
+   "escola": "PADRE ANTÔNIO BOEING",
+   "qtd": 3,
+   "inicio": "18/03/2026",
+   "fim": "10/04/2026",
+   "cursos": [
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 3,
+     "inicio": "18/03/2026",
+     "fim": "10/04/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "Santa Inês",
+   "escola": "SIMONE MACIEIRA",
+   "qtd": 17,
+   "inicio": "26/11/2025",
+   "fim": "10/04/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 17,
+     "inicio": "26/11/2025",
+     "fim": "10/04/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "Santa Inês",
+   "escola": "TOMAZ DE AQUINO",
+   "qtd": 59,
+   "inicio": "07/01/2026",
+   "fim": "17/04/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 20,
+     "inicio": "07/01/2026",
+     "fim": "10/04/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 39,
+     "inicio": "16/03/2026",
+     "fim": "17/04/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "Santa Inês",
+   "escola": "VITORINO FREIRE",
+   "qtd": 28,
+   "inicio": "14/04/2026",
+   "fim": "17/04/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 28,
+     "inicio": "14/04/2026",
+     "fim": "17/04/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São José de Ribamar",
+   "escola": "BANDEIRA TRIBUZZI",
+   "qtd": 12,
+   "inicio": "10/12/2025",
+   "fim": "21/08/2026",
+   "cursos": [
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 12,
+     "inicio": "10/12/2025",
+     "fim": "21/08/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São José de Ribamar",
+   "escola": "BARBOSA DE GODÓIS",
+   "qtd": 70,
+   "inicio": "18/11/2025",
+   "fim": "28/08/2026",
+   "cursos": [
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 70,
+     "inicio": "18/11/2025",
+     "fim": "28/08/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São José de Ribamar",
+   "escola": "CURIÁ",
+   "qtd": 150,
+   "inicio": "07/07/2026",
+   "fim": "17/07/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 27,
+     "inicio": "09/07/2026",
+     "fim": "10/07/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 123,
+     "inicio": "07/07/2026",
+     "fim": "17/07/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São José de Ribamar",
+   "escola": "E.M RAIMUNDO ROCHA",
+   "qtd": 51,
+   "inicio": "13/07/2026",
+   "fim": "28/08/2026",
+   "cursos": [
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 51,
+     "inicio": "13/07/2026",
+     "fim": "28/08/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São José de Ribamar",
+   "escola": "EMEF OLAVO BILAC",
+   "qtd": 56,
+   "inicio": "22/05/2026",
+   "fim": "03/07/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 6,
+     "inicio": "25/06/2026",
+     "fim": "26/06/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 50,
+     "inicio": "22/05/2026",
+     "fim": "03/07/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São José de Ribamar",
+   "escola": "ESTADO DO AMAZONAS",
+   "qtd": 18,
+   "inicio": "19/08/2026",
+   "fim": "21/08/2026",
+   "cursos": [
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 18,
+     "inicio": "19/08/2026",
+     "fim": "21/08/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São José de Ribamar",
+   "escola": "LICEU RIBAMARENSE",
+   "qtd": 108,
+   "inicio": "17/06/2026",
+   "fim": "19/06/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 58,
+     "inicio": "18/06/2026",
+     "fim": "19/06/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 50,
+     "inicio": "17/06/2026",
+     "fim": "19/06/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São José de Ribamar",
+   "escola": "LUÍS RÊGO",
+   "qtd": 50,
+   "inicio": "21/10/2025",
+   "fim": "03/07/2026",
+   "cursos": [
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 50,
+     "inicio": "21/10/2025",
+     "fim": "03/07/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São José de Ribamar",
+   "escola": "MATOS CARVALHO",
+   "qtd": 27,
+   "inicio": "18/08/2026",
+   "fim": "21/08/2026",
+   "cursos": [
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 27,
+     "inicio": "18/08/2026",
+     "fim": "21/08/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São José de Ribamar",
+   "escola": "RESIDENCIAL AMENDOEIRA",
+   "qtd": 11,
+   "inicio": "02/07/2026",
+   "fim": "10/07/2026",
+   "cursos": [
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 11,
+     "inicio": "02/07/2026",
+     "fim": "10/07/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São José de Ribamar",
+   "escola": "SÁ VIANA",
+   "qtd": 19,
+   "inicio": "02/07/2026",
+   "fim": "10/07/2026",
+   "cursos": [
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 19,
+     "inicio": "02/07/2026",
+     "fim": "10/07/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São José de Ribamar",
+   "escola": "T. IDOSOS - UEMA",
+   "qtd": 20,
+   "inicio": "30/06/2026",
+   "fim": "10/07/2026",
+   "cursos": [
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 20,
+     "inicio": "30/06/2026",
+     "fim": "10/07/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São Luís",
+   "escola": "ARTUR CARVALHO",
+   "qtd": 100,
+   "inicio": "27/04/2026",
+   "fim": "05/06/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 59,
+     "inicio": "29/04/2026",
+     "fim": "05/06/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 41,
+     "inicio": "27/04/2026",
+     "fim": "01/05/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São Luís",
+   "escola": "BARBOSA DE GODÓIS",
+   "qtd": 89,
+   "inicio": "22/05/2026",
+   "fim": "05/06/2026",
+   "cursos": [
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 89,
+     "inicio": "22/05/2026",
+     "fim": "05/06/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São Luís",
+   "escola": "BARCELAR PORTELA",
+   "qtd": 71,
+   "inicio": "21/10/2025",
+   "fim": "22/05/2026",
+   "cursos": [
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 71,
+     "inicio": "21/10/2025",
+     "fim": "22/05/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São Luís",
+   "escola": "CE JOÃO FRANCISCO LISBOA",
+   "qtd": 431,
+   "inicio": "24/03/2025",
+   "fim": "18/04/2025",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 219,
+     "inicio": "24/03/2025",
+     "fim": "18/04/2025"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 212,
+     "inicio": "24/03/2025",
+     "fim": "18/04/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São Luís",
+   "escola": "CEM RIBEIRO DO AMARAL",
+   "qtd": 32,
+   "inicio": "13/05/2026",
+   "fim": "29/05/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 32,
+     "inicio": "13/05/2026",
+     "fim": "29/05/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São Luís",
+   "escola": "CENTRO EDUCA MAIS COELHO NETO",
+   "qtd": 176,
+   "inicio": "17/06/2025",
+   "fim": "27/06/2025",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 28,
+     "inicio": "24/06/2025",
+     "fim": "27/06/2025"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 148,
+     "inicio": "17/06/2025",
+     "fim": "27/06/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São Luís",
+   "escola": "CENTRO EDUCA MAIS CÔNEGO RIBAMAR CARVALHO",
+   "qtd": 409,
+   "inicio": "17/02/2025",
+   "fim": "21/03/2025",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 205,
+     "inicio": "17/02/2025",
+     "fim": "21/03/2025"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 204,
+     "inicio": "17/02/2025",
+     "fim": "21/03/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São Luís",
+   "escola": "EDUCA MAIS MARGARIDA PIRES LEAL",
+   "qtd": 420,
+   "inicio": "26/05/2025",
+   "fim": "13/06/2025",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 412,
+     "inicio": "26/05/2025",
+     "fim": "13/06/2025"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 8,
+     "inicio": "26/05/2025",
+     "fim": "06/06/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São Luís",
+   "escola": "EDUCANDARIO",
+   "qtd": 16,
+   "inicio": "08/05/2026",
+   "fim": "05/06/2026",
+   "cursos": [
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 16,
+     "inicio": "08/05/2026",
+     "fim": "05/06/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São Luís",
+   "escola": "EMEF GONÇALVES DIAS",
+   "qtd": 119,
+   "inicio": "30/04/2026",
+   "fim": "08/05/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 61,
+     "inicio": "30/04/2026",
+     "fim": "01/05/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 58,
+     "inicio": "30/04/2026",
+     "fim": "08/05/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São Luís",
+   "escola": "HUMBERTO DE CAMPOS",
+   "qtd": 29,
+   "inicio": "04/05/2026",
+   "fim": "08/05/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 29,
+     "inicio": "04/05/2026",
+     "fim": "08/05/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São Luís",
+   "escola": "I.P. SÃO LUIS COHAB",
+   "qtd": 184,
+   "inicio": "31/08/2026",
+   "fim": "11/09/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 61,
+     "inicio": "31/08/2026",
+     "fim": "04/09/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 123,
+     "inicio": "31/08/2026",
+     "fim": "11/09/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São Luís",
+   "escola": "MATOS CARVALHO",
+   "qtd": 188,
+   "inicio": "30/10/2025",
+   "fim": "22/05/2026",
+   "cursos": [
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 188,
+     "inicio": "30/10/2025",
+     "fim": "22/05/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São Luís",
+   "escola": "UEB ROSÁLIA FREIRE",
+   "qtd": 231,
+   "inicio": "20/04/2025",
+   "fim": "02/05/2025",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 142,
+     "inicio": "20/04/2025",
+     "fim": "02/05/2025"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 89,
+     "inicio": "21/04/2025",
+     "fim": "02/05/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "São Luís",
+   "escola": "UEB SÃO CRISTÓVÃO",
+   "qtd": 427,
+   "inicio": "30/04/2025",
+   "fim": "23/05/2025",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 37,
+     "inicio": "30/04/2025",
+     "fim": "23/05/2025"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 390,
+     "inicio": "30/04/2025",
+     "fim": "23/05/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Maranhão",
+   "municipio": "Timbiras",
+   "escola": "MUNDOCA ALVIM",
+   "qtd": 11,
+   "inicio": "18/11/2025",
+   "fim": "06/02/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 10,
+     "inicio": "18/11/2025",
+     "fim": "06/02/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 1,
+     "inicio": "09/02/2026",
+     "fim": "06/02/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Mato Grosso do Sul",
+   "municipio": "Amambai",
+   "escola": "ESCOLA MUNICIPAL POLO INDÍGENA MBO'EROY GUARANI KAIOWA",
+   "qtd": 139,
+   "inicio": "15/01/2026",
+   "fim": "30/01/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 51,
+     "inicio": "20/01/2026",
+     "fim": "30/01/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 47,
+     "inicio": "15/01/2026",
+     "fim": "30/01/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 41,
+     "inicio": "15/01/2026",
+     "fim": "30/01/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Mato Grosso do Sul",
+   "municipio": "Amambai",
+   "escola": "ESCOLA MUNICIPAL TUPÃ NANDEVA",
+   "qtd": 137,
+   "inicio": "25/02/2026",
+   "fim": "06/03/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 52,
+     "inicio": "25/02/2026",
+     "fim": "06/03/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 85,
+     "inicio": "25/02/2026",
+     "fim": "06/03/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Mato Grosso do Sul",
+   "municipio": "Amambai",
+   "escola": "ESCOLA NOVO HORIZONTE",
+   "qtd": 86,
+   "inicio": "09/03/2026",
+   "fim": "13/03/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 40,
+     "inicio": "09/03/2026",
+     "fim": "13/03/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 46,
+     "inicio": "09/03/2026",
+     "fim": "13/03/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Mato Grosso do Sul",
+   "municipio": "Aquidauana",
+   "escola": "E.M INDIGENA POLO GENERAL RONDON",
+   "qtd": 118,
+   "inicio": "27/04/2026",
+   "fim": "01/05/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 63,
+     "inicio": "27/04/2026",
+     "fim": "01/05/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 55,
+     "inicio": "27/04/2026",
+     "fim": "01/05/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Mato Grosso do Sul",
+   "municipio": "Aquidauana",
+   "escola": "EM INDIGENA POLO FELICIANO PIO",
+   "qtd": 56,
+   "inicio": "22/04/2026",
+   "fim": "24/04/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 28,
+     "inicio": "22/04/2026",
+     "fim": "24/04/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 28,
+     "inicio": "22/04/2026",
+     "fim": "24/04/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Mato Grosso do Sul",
+   "municipio": "Aquidauana",
+   "escola": "ERSO GOMES",
+   "qtd": 235,
+   "inicio": "17/03/2026",
+   "fim": "27/03/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 112,
+     "inicio": "17/03/2026",
+     "fim": "27/03/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 123,
+     "inicio": "17/03/2026",
+     "fim": "27/03/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Mato Grosso do Sul",
+   "municipio": "Aquidauana",
+   "escola": "ESCOLA CAIC ANTONIO PACE",
+   "qtd": 323,
+   "inicio": "31/03/2026",
+   "fim": "17/04/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 160,
+     "inicio": "31/03/2026",
+     "fim": "17/04/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 163,
+     "inicio": "31/03/2026",
+     "fim": "17/04/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Mato Grosso do Sul",
+   "municipio": "Aquidauana",
+   "escola": "ESCOLA MUNICIPAL VISCONDE TAUNAY",
+   "qtd": 62,
+   "inicio": "22/04/2026",
+   "fim": "24/04/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 33,
+     "inicio": "22/04/2026",
+     "fim": "24/04/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 29,
+     "inicio": "22/04/2026",
+     "fim": "24/04/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Mato Grosso do Sul",
+   "municipio": "Campo Grande",
+   "escola": "EM PROFESSORA ARLENE MARQUES ALMEIDA",
+   "qtd": 566,
+   "inicio": "10/03/2025",
+   "fim": "02/05/2025",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 95,
+     "inicio": "28/04/2025",
+     "fim": "02/05/2025"
+    },
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 118,
+     "inicio": "10/03/2025",
+     "fim": "04/04/2025"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 120,
+     "inicio": "10/03/2025",
+     "fim": "04/04/2025"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 233,
+     "inicio": "10/03/2025",
+     "fim": "04/04/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Mato Grosso do Sul",
+   "municipio": "Campo Grande",
+   "escola": "EM. DR. EDUARDO OLIMPIO MACHADO",
+   "qtd": 1023,
+   "inicio": "05/05/2025",
+   "fim": "27/06/2025",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 403,
+     "inicio": "05/05/2025",
+     "fim": "27/06/2025"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 620,
+     "inicio": "05/05/2025",
+     "fim": "27/06/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Mato Grosso do Sul",
+   "municipio": "Campo Grande",
+   "escola": "GOVERNO DO BRASIL NA RUA",
+   "qtd": 4,
+   "inicio": "07/02/2026",
+   "fim": "06/02/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 4,
+     "inicio": "07/02/2026",
+     "fim": "06/02/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Mato Grosso do Sul",
+   "municipio": "Campo Grande",
+   "escola": "INSTITUTO MIRIM",
+   "qtd": 431,
+   "inicio": "03/12/2024",
+   "fim": "28/02/2025",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 136,
+     "inicio": "03/12/2024",
+     "fim": "28/02/2025"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 176,
+     "inicio": "04/12/2024",
+     "fim": "28/02/2025"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 119,
+     "inicio": "09/12/2024",
+     "fim": "28/02/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Mato Grosso do Sul",
+   "municipio": "Campo Grande",
+   "escola": "SESC LAGEADO",
+   "qtd": 125,
+   "inicio": "28/10/2024",
+   "fim": "29/11/2024",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 46,
+     "inicio": "28/10/2024",
+     "fim": "29/11/2024"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 28,
+     "inicio": "28/10/2024",
+     "fim": "29/11/2024"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 51,
+     "inicio": "28/10/2024",
+     "fim": "29/11/2024"
+    }
+   ]
+  },
+  {
+   "estado": "Mato Grosso do Sul",
+   "municipio": "Três Lagoas",
+   "escola": "EM JOAQUIM MARQUES DE SOUZA",
+   "qtd": 274,
+   "inicio": "12/05/2025",
+   "fim": "26/06/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 121,
+     "inicio": "26/05/2026",
+     "fim": "26/06/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 153,
+     "inicio": "12/05/2025",
+     "fim": "26/06/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Mato Grosso do Sul",
+   "municipio": "Três Lagoas",
+   "escola": "EM MARIA EULÁLIA",
+   "qtd": 309,
+   "inicio": "01/06/2026",
+   "fim": "17/07/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 158,
+     "inicio": "01/06/2026",
+     "fim": "17/07/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 151,
+     "inicio": "01/06/2026",
+     "fim": "17/07/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Mato Grosso do Sul",
+   "municipio": "Três Lagoas",
+   "escola": "EM PARQUE SÃO CARLOS",
+   "qtd": 429,
+   "inicio": "29/04/2026",
+   "fim": "05/06/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 242,
+     "inicio": "29/04/2026",
+     "fim": "05/06/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 187,
+     "inicio": "29/04/2026",
+     "fim": "29/05/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Paraíba",
+   "municipio": "Campina Grande",
+   "escola": "FEDERAÇÃO DAS INDUSTRIAS DO ESTADO DA PARAÍBA",
+   "qtd": 88,
+   "inicio": "13/08/2026",
+   "fim": "11/09/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 23,
+     "inicio": "13/08/2026",
+     "fim": "04/09/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 10,
+     "inicio": "13/08/2026",
+     "fim": "04/09/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 55,
+     "inicio": "13/08/2026",
+     "fim": "11/09/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Pernambuco",
+   "municipio": "Petrolina",
+   "escola": "ALDEIA KARIRI XOCÓ",
+   "qtd": 61,
+   "inicio": "16/06/2026",
+   "fim": "19/06/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 31,
+     "inicio": "16/06/2026",
+     "fim": "19/06/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 30,
+     "inicio": "17/06/2026",
+     "fim": "19/06/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Pernambuco",
+   "municipio": "Petrolina",
+   "escola": "EREM ANTÔNIO CASSIMIRO",
+   "qtd": 395,
+   "inicio": "11/05/2026",
+   "fim": "03/07/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 181,
+     "inicio": "11/05/2026",
+     "fim": "26/06/2026"
+    },
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 8,
+     "inicio": "22/06/2026",
+     "fim": "26/06/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 110,
+     "inicio": "11/05/2026",
+     "fim": "03/07/2026"
+    },
+    {
+     "nome": "Programação em Python",
+     "frase": "programação em Python",
+     "topicos": [
+      "Introdução à linguagem Python",
+      "Estruturas básicas",
+      "Condicionais e de repetição",
+      "Operações aritméticas e operadores de comparação"
+     ],
+     "qtd": 7,
+     "inicio": "22/06/2026",
+     "fim": "03/07/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 89,
+     "inicio": "11/05/2026",
+     "fim": "03/07/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Pernambuco",
+   "municipio": "Petrolina",
+   "escola": "ESCOLA MUNICIPAL NOSSA SENHORA RAINHA DOS ANJOS",
+   "qtd": 107,
+   "inicio": "09/06/2026",
+   "fim": "12/06/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 23,
+     "inicio": "09/06/2026",
+     "fim": "12/06/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 32,
+     "inicio": "09/06/2026",
+     "fim": "12/06/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 52,
+     "inicio": "09/06/2026",
+     "fim": "12/06/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Pernambuco",
+   "municipio": "Petrolina",
+   "escola": "IF SERTÃO PERNAMBUCANO",
+   "qtd": 51,
+   "inicio": "29/06/2026",
+   "fim": "10/07/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 6,
+     "inicio": "29/06/2026",
+     "fim": "10/07/2026"
+    },
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 24,
+     "inicio": "08/07/2026",
+     "fim": "10/07/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 8,
+     "inicio": "29/06/2026",
+     "fim": "10/07/2026"
+    },
+    {
+     "nome": "Programação em Python",
+     "frase": "programação em Python",
+     "topicos": [
+      "Introdução à linguagem Python",
+      "Estruturas básicas",
+      "Condicionais e de repetição",
+      "Operações aritméticas e operadores de comparação"
+     ],
+     "qtd": 7,
+     "inicio": "29/06/2026",
+     "fim": "10/07/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 6,
+     "inicio": "29/06/2026",
+     "fim": "10/07/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Pernambuco",
+   "municipio": "Petrolina",
+   "escola": "SESI",
+   "qtd": 81,
+   "inicio": "20/07/2026",
+   "fim": "11/09/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 29,
+     "inicio": "31/08/2026",
+     "fim": "11/09/2026"
+    },
+    {
+     "nome": "Impressão 3D",
+     "frase": "impressão 3D",
+     "topicos": [
+      "Introdução e aplicações da tecnologia",
+      "Modelagem 3D e edição básica",
+      "Fatiamento e preparação de peças",
+      "Operação de impressoras 3D",
+      "Resolução de problemas e manutenção"
+     ],
+     "qtd": 8,
+     "inicio": "08/09/2026",
+     "fim": "11/09/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 44,
+     "inicio": "20/07/2026",
+     "fim": "04/09/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Pernambuco",
+   "municipio": "Petrolina",
+   "escola": "UNIVASF CAMPUS PETROLINA",
+   "qtd": 422,
+   "inicio": "29/06/2026",
+   "fim": "28/08/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 74,
+     "inicio": "20/07/2026",
+     "fim": "28/08/2026"
+    },
+    {
+     "nome": "Impressão 3D",
+     "frase": "impressão 3D",
+     "topicos": [
+      "Introdução e aplicações da tecnologia",
+      "Modelagem 3D e edição básica",
+      "Fatiamento e preparação de peças",
+      "Operação de impressoras 3D",
+      "Resolução de problemas e manutenção"
+     ],
+     "qtd": 121,
+     "inicio": "29/06/2026",
+     "fim": "28/08/2026"
+    },
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 68,
+     "inicio": "06/07/2026",
+     "fim": "28/08/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 33,
+     "inicio": "20/07/2026",
+     "fim": "28/08/2026"
+    },
+    {
+     "nome": "Programação em Python",
+     "frase": "programação em Python",
+     "topicos": [
+      "Introdução à linguagem Python",
+      "Estruturas básicas",
+      "Condicionais e de repetição",
+      "Operações aritméticas e operadores de comparação"
+     ],
+     "qtd": 83,
+     "inicio": "22/07/2026",
+     "fim": "28/08/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 43,
+     "inicio": "20/07/2026",
+     "fim": "14/08/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Pernambuco",
+   "municipio": "Recife",
+   "escola": "COMPAZ ARIANO SUASSUNA",
+   "qtd": 244,
+   "inicio": "07/01/2026",
+   "fim": "13/02/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 137,
+     "inicio": "07/01/2026",
+     "fim": "13/02/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 107,
+     "inicio": "07/01/2026",
+     "fim": "13/02/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Pernambuco",
+   "municipio": "Recife",
+   "escola": "COMPAZ DOM HELDER",
+   "qtd": 73,
+   "inicio": "06/02/2026",
+   "fim": "13/03/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 55,
+     "inicio": "09/02/2026",
+     "fim": "13/03/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 18,
+     "inicio": "06/02/2026",
+     "fim": "06/03/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Pernambuco",
+   "municipio": "Recife",
+   "escola": "COMPAZ MIGUEL ARRAES",
+   "qtd": 119,
+   "inicio": "28/11/2025",
+   "fim": "19/12/2025",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 79,
+     "inicio": "28/11/2025",
+     "fim": "19/12/2025"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 12,
+     "inicio": "04/12/2025",
+     "fim": "19/12/2025"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 28,
+     "inicio": "01/12/2025",
+     "fim": "12/12/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Pernambuco",
+   "municipio": "Recife",
+   "escola": "EREM ADERBAL JUREMA",
+   "qtd": 47,
+   "inicio": "08/09/2026",
+   "fim": "11/09/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 29,
+     "inicio": "08/09/2026",
+     "fim": "11/09/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 18,
+     "inicio": "08/09/2026",
+     "fim": "11/09/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Pernambuco",
+   "municipio": "Recife",
+   "escola": "EREM ALBERTO TORRES",
+   "qtd": 390,
+   "inicio": "08/06/2026",
+   "fim": "10/07/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 230,
+     "inicio": "08/06/2026",
+     "fim": "10/07/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 160,
+     "inicio": "08/06/2026",
+     "fim": "10/07/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Pernambuco",
+   "municipio": "Recife",
+   "escola": "EREM CLOVIS BEVILAQUA",
+   "qtd": 385,
+   "inicio": "17/03/2026",
+   "fim": "10/04/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 281,
+     "inicio": "17/03/2026",
+     "fim": "10/04/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 104,
+     "inicio": "17/03/2026",
+     "fim": "10/04/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Pernambuco",
+   "municipio": "Recife",
+   "escola": "EREM PAULO GUERRA",
+   "qtd": 194,
+   "inicio": "10/08/2026",
+   "fim": "21/08/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 66,
+     "inicio": "10/08/2026",
+     "fim": "21/08/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 128,
+     "inicio": "10/08/2026",
+     "fim": "21/08/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Pernambuco",
+   "municipio": "Recife",
+   "escola": "EREM PRES. CASTELO BRANCO",
+   "qtd": 231,
+   "inicio": "25/05/2026",
+   "fim": "05/06/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 166,
+     "inicio": "25/05/2026",
+     "fim": "05/06/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 65,
+     "inicio": "25/05/2026",
+     "fim": "05/06/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Pernambuco",
+   "municipio": "Recife",
+   "escola": "EREM SIZENANDO SILVEIRA",
+   "qtd": 365,
+   "inicio": "15/04/2026",
+   "fim": "15/05/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 266,
+     "inicio": "15/04/2026",
+     "fim": "15/05/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 99,
+     "inicio": "20/04/2026",
+     "fim": "15/05/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Pernambuco",
+   "municipio": "Recife",
+   "escola": "EREM SYLVIO RABELLO",
+   "qtd": 214,
+   "inicio": "27/04/2026",
+   "fim": "22/05/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 152,
+     "inicio": "27/04/2026",
+     "fim": "22/05/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 62,
+     "inicio": "27/04/2026",
+     "fim": "22/05/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Pernambuco",
+   "municipio": "Recife",
+   "escola": "EREM TRAJANO DE MENDONÇA",
+   "qtd": 278,
+   "inicio": "24/08/2026",
+   "fim": "04/09/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 129,
+     "inicio": "24/08/2026",
+     "fim": "04/09/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 149,
+     "inicio": "24/08/2026",
+     "fim": "04/09/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Pernambuco",
+   "municipio": "Recife",
+   "escola": "PAJUBÁ TECH",
+   "qtd": 15,
+   "inicio": "02/02/2026",
+   "fim": "06/02/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 7,
+     "inicio": "02/02/2026",
+     "fim": "06/02/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 8,
+     "inicio": "02/02/2026",
+     "fim": "06/02/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Piauí",
+   "municipio": "Teresina",
+   "escola": "GOVERNO DO BRASIL NA RUA",
+   "qtd": 65,
+   "inicio": "06/03/2026",
+   "fim": "07/03/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 31,
+     "inicio": "07/03/2026",
+     "fim": "07/03/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 34,
+     "inicio": "06/03/2026",
+     "fim": "06/03/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio de Janeiro",
+   "municipio": "Niterói",
+   "escola": "CEAM",
+   "qtd": 15,
+   "inicio": "11/08/2026",
+   "fim": "14/08/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 11,
+     "inicio": "11/08/2026",
+     "fim": "14/08/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 2,
+     "inicio": "11/08/2026",
+     "fim": "14/08/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 2,
+     "inicio": "11/08/2026",
+     "fim": "14/08/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio de Janeiro",
+   "municipio": "Paracambi",
+   "escola": "COMUNIDADE",
+   "qtd": 315,
+   "inicio": "04/05/2026",
+   "fim": "29/05/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 17,
+     "inicio": "05/05/2026",
+     "fim": "29/05/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 148,
+     "inicio": "04/05/2026",
+     "fim": "29/05/2026"
+    },
+    {
+     "nome": "Programação em Python",
+     "frase": "programação em Python",
+     "topicos": [
+      "Introdução à linguagem Python",
+      "Estruturas básicas",
+      "Condicionais e de repetição",
+      "Operações aritméticas e operadores de comparação"
+     ],
+     "qtd": 150,
+     "inicio": "04/05/2026",
+     "fim": "29/05/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio de Janeiro",
+   "municipio": "Queimados",
+   "escola": "EM ESCOLA METODISTA DE QUEIMADOS",
+   "qtd": 441,
+   "inicio": "01/06/2026",
+   "fim": "17/07/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 7,
+     "inicio": "01/06/2026",
+     "fim": "17/07/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 113,
+     "inicio": "01/06/2026",
+     "fim": "17/07/2026"
+    },
+    {
+     "nome": "Programação em Python",
+     "frase": "programação em Python",
+     "topicos": [
+      "Introdução à linguagem Python",
+      "Estruturas básicas",
+      "Condicionais e de repetição",
+      "Operações aritméticas e operadores de comparação"
+     ],
+     "qtd": 210,
+     "inicio": "01/06/2026",
+     "fim": "17/07/2026"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 111,
+     "inicio": "01/06/2026",
+     "fim": "17/07/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Canoas",
+   "escola": "ANA NERI",
+   "qtd": 21,
+   "inicio": "09/02/2026",
+   "fim": "13/02/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 21,
+     "inicio": "09/02/2026",
+     "fim": "13/02/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Canoas",
+   "escola": "DOLORES GARCIA",
+   "qtd": 16,
+   "inicio": "09/02/2026",
+   "fim": "13/02/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 16,
+     "inicio": "09/02/2026",
+     "fim": "13/02/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Canoas",
+   "escola": "EMEF ARTHUR P. VARGAS",
+   "qtd": 101,
+   "inicio": "23/06/2025",
+   "fim": "18/07/2025",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 20,
+     "inicio": "07/07/2025",
+     "fim": "18/07/2025"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 80,
+     "inicio": "23/06/2025",
+     "fim": "18/07/2025"
+    },
+    {
+     "nome": "Programação em Python",
+     "frase": "programação em Python",
+     "topicos": [
+      "Introdução à linguagem Python",
+      "Estruturas básicas",
+      "Condicionais e de repetição",
+      "Operações aritméticas e operadores de comparação"
+     ],
+     "qtd": 1,
+     "inicio": "15/07/2025",
+     "fim": "18/07/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Canoas",
+   "escola": "EMEF ASSIS BRASIL",
+   "qtd": 40,
+   "inicio": "10/11/2025",
+   "fim": "14/11/2025",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 18,
+     "inicio": "10/11/2025",
+     "fim": "14/11/2025"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 22,
+     "inicio": "10/11/2025",
+     "fim": "14/11/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Canoas",
+   "escola": "EMEF BILINGUE PARA SURDOS VITÓRIA",
+   "qtd": 5,
+   "inicio": "23/06/2025",
+   "fim": "27/06/2025",
+   "cursos": [
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 5,
+     "inicio": "23/06/2025",
+     "fim": "27/06/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Canoas",
+   "escola": "EMEF CEARÁ",
+   "qtd": 111,
+   "inicio": "14/07/2025",
+   "fim": "07/11/2025",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 21,
+     "inicio": "14/07/2025",
+     "fim": "18/07/2025"
+    },
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 4,
+     "inicio": "14/07/2025",
+     "fim": "18/07/2025"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 81,
+     "inicio": "14/07/2025",
+     "fim": "07/11/2025"
+    },
+    {
+     "nome": "Programação em Python",
+     "frase": "programação em Python",
+     "topicos": [
+      "Introdução à linguagem Python",
+      "Estruturas básicas",
+      "Condicionais e de repetição",
+      "Operações aritméticas e operadores de comparação"
+     ],
+     "qtd": 1,
+     "inicio": "28/10/2025",
+     "fim": "31/10/2025"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 4,
+     "inicio": "14/07/2025",
+     "fim": "18/07/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Canoas",
+   "escola": "EMEF DAVID CANABARRO",
+   "qtd": 155,
+   "inicio": "10/03/2025",
+   "fim": "21/03/2025",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 53,
+     "inicio": "10/03/2025",
+     "fim": "14/03/2025"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 102,
+     "inicio": "10/03/2025",
+     "fim": "21/03/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Canoas",
+   "escola": "EMEF GONÇALVES DIAS",
+   "qtd": 113,
+   "inicio": "26/05/2025",
+   "fim": "13/06/2025",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 38,
+     "inicio": "26/05/2025",
+     "fim": "13/06/2025"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 55,
+     "inicio": "26/05/2025",
+     "fim": "06/06/2025"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 20,
+     "inicio": "09/06/2025",
+     "fim": "13/06/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Canoas",
+   "escola": "EMEF JOÃO PALMA DA SILVA",
+   "qtd": 168,
+   "inicio": "02/06/2025",
+   "fim": "31/10/2025",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 37,
+     "inicio": "02/06/2025",
+     "fim": "31/10/2025"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 58,
+     "inicio": "23/06/2025",
+     "fim": "31/10/2025"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 73,
+     "inicio": "02/06/2025",
+     "fim": "27/06/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Canoas",
+   "escola": "EMEF MAX ADOLFO ODERICH",
+   "qtd": 152,
+   "inicio": "14/04/2025",
+   "fim": "09/05/2025",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 94,
+     "inicio": "22/04/2025",
+     "fim": "09/05/2025"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 58,
+     "inicio": "14/04/2025",
+     "fim": "09/05/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Canoas",
+   "escola": "EMEF MINISTRO R. CARLOS LUDWIG",
+   "qtd": 47,
+   "inicio": "28/04/2025",
+   "fim": "11/07/2025",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 8,
+     "inicio": "28/04/2025",
+     "fim": "11/07/2025"
+    },
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 1,
+     "inicio": "08/07/2025",
+     "fim": "11/07/2025"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 38,
+     "inicio": "28/04/2025",
+     "fim": "11/07/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Canoas",
+   "escola": "EMEF PROF. THIAGO WURTH",
+   "qtd": 274,
+   "inicio": "05/05/2025",
+   "fim": "13/06/2025",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 54,
+     "inicio": "12/05/2025",
+     "fim": "30/05/2025"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 167,
+     "inicio": "05/05/2025",
+     "fim": "13/06/2025"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 53,
+     "inicio": "19/05/2025",
+     "fim": "06/06/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Canoas",
+   "escola": "EMEF PROFESSORA ODETTE YOLANDA OLIVEIRA FREITAS",
+   "qtd": 190,
+   "inicio": "17/03/2025",
+   "fim": "11/04/2025",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 105,
+     "inicio": "17/03/2025",
+     "fim": "11/04/2025"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 85,
+     "inicio": "17/03/2025",
+     "fim": "11/04/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Canoas",
+   "escola": "EMEF RIO DE JANEIRO",
+   "qtd": 203,
+   "inicio": "27/10/2025",
+   "fim": "21/11/2025",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 128,
+     "inicio": "27/10/2025",
+     "fim": "21/11/2025"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 75,
+     "inicio": "03/11/2025",
+     "fim": "21/11/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Canoas",
+   "escola": "EMEF RIO GRANDE DO SUL",
+   "qtd": 44,
+   "inicio": "17/11/2025",
+   "fim": "21/11/2025",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 21,
+     "inicio": "17/11/2025",
+     "fim": "21/11/2025"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 23,
+     "inicio": "17/11/2025",
+     "fim": "21/11/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Canoas",
+   "escola": "EMEF RUI CIRNE LIMA",
+   "qtd": 47,
+   "inicio": "28/04/2025",
+   "fim": "16/05/2025",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 9,
+     "inicio": "28/04/2025",
+     "fim": "02/05/2025"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 10,
+     "inicio": "28/04/2025",
+     "fim": "02/05/2025"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 28,
+     "inicio": "12/05/2025",
+     "fim": "16/05/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Canoas",
+   "escola": "JOÃO PAULO I",
+   "qtd": 263,
+   "inicio": "31/03/2025",
+   "fim": "25/04/2025",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 160,
+     "inicio": "31/03/2025",
+     "fim": "25/04/2025"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 103,
+     "inicio": "31/03/2025",
+     "fim": "25/04/2025"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Canoas",
+   "escola": "WANDA ROCHA",
+   "qtd": 17,
+   "inicio": "09/02/2026",
+   "fim": "13/02/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 17,
+     "inicio": "09/02/2026",
+     "fim": "13/02/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Pelotas",
+   "escola": "EMEF FRANCISCO CARUCCIO",
+   "qtd": 265,
+   "inicio": "16/03/2026",
+   "fim": "03/07/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 124,
+     "inicio": "03/06/2026",
+     "fim": "03/07/2026"
+    },
+    {
+     "nome": "Programação em Python",
+     "frase": "programação em Python",
+     "topicos": [
+      "Introdução à linguagem Python",
+      "Estruturas básicas",
+      "Condicionais e de repetição",
+      "Operações aritméticas e operadores de comparação"
+     ],
+     "qtd": 141,
+     "inicio": "16/03/2026",
+     "fim": "03/07/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Rio Grande",
+   "escola": "EEEF CEL. JUVÊNCIO LEMOS",
+   "qtd": 33,
+   "inicio": "18/05/2026",
+   "fim": "22/05/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 33,
+     "inicio": "18/05/2026",
+     "fim": "22/05/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Rio Grande",
+   "escola": "EEEF EMILIO MALLET",
+   "qtd": 27,
+   "inicio": "25/05/2026",
+   "fim": "29/05/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 27,
+     "inicio": "25/05/2026",
+     "fim": "29/05/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Rio Grande",
+   "escola": "EEEM BIBIANO DE ALMEIDA",
+   "qtd": 95,
+   "inicio": "28/04/2026",
+   "fim": "29/05/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 23,
+     "inicio": "04/05/2026",
+     "fim": "08/05/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 72,
+     "inicio": "28/04/2026",
+     "fim": "29/05/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Rio Grande",
+   "escola": "EMEB CARMEN REGINA TEIXEIRA BALDINO",
+   "qtd": 9,
+   "inicio": "09/03/2026",
+   "fim": "13/03/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 9,
+     "inicio": "09/03/2026",
+     "fim": "13/03/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Rio Grande",
+   "escola": "EMEF ADMAR CORRÊA",
+   "qtd": 54,
+   "inicio": "09/03/2026",
+   "fim": "24/04/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 12,
+     "inicio": "14/04/2026",
+     "fim": "24/04/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 42,
+     "inicio": "09/03/2026",
+     "fim": "27/03/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Rio Grande",
+   "escola": "EMEF ANTÔNIO CARLOS LOPES",
+   "qtd": 13,
+   "inicio": "18/05/2026",
+   "fim": "22/05/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 13,
+     "inicio": "18/05/2026",
+     "fim": "22/05/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Rio Grande",
+   "escola": "EMEF BENTO GONÇALVES",
+   "qtd": 52,
+   "inicio": "04/05/2026",
+   "fim": "22/05/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 52,
+     "inicio": "04/05/2026",
+     "fim": "22/05/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Rio Grande",
+   "escola": "EMEF CIPRIANO POA",
+   "qtd": 51,
+   "inicio": "22/04/2026",
+   "fim": "01/05/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 39,
+     "inicio": "22/04/2026",
+     "fim": "01/05/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 12,
+     "inicio": "22/04/2026",
+     "fim": "24/04/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Rio Grande",
+   "escola": "EMEF CLEMENTE PINTO",
+   "qtd": 39,
+   "inicio": "02/03/2026",
+   "fim": "06/03/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 39,
+     "inicio": "02/03/2026",
+     "fim": "06/03/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Rio Grande",
+   "escola": "EMEF CORIOLANO",
+   "qtd": 102,
+   "inicio": "04/05/2026",
+   "fim": "15/05/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 16,
+     "inicio": "11/05/2026",
+     "fim": "15/05/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 86,
+     "inicio": "04/05/2026",
+     "fim": "15/05/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Rio Grande",
+   "escola": "EMEF CRISTÓVÃO PEREIRA ABREU",
+   "qtd": 20,
+   "inicio": "18/05/2026",
+   "fim": "22/05/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 20,
+     "inicio": "18/05/2026",
+     "fim": "22/05/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Rio Grande",
+   "escola": "EMEF FRANÇA PINTO",
+   "qtd": 151,
+   "inicio": "09/03/2026",
+   "fim": "01/05/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 60,
+     "inicio": "22/04/2026",
+     "fim": "01/05/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 91,
+     "inicio": "09/03/2026",
+     "fim": "27/03/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Rio Grande",
+   "escola": "EMEF FRANCISCO CARUCCIO",
+   "qtd": 116,
+   "inicio": "01/06/2026",
+   "fim": "12/06/2026",
+   "cursos": [
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 59,
+     "inicio": "02/06/2026",
+     "fim": "12/06/2026"
+    },
+    {
+     "nome": "Programação em Python",
+     "frase": "programação em Python",
+     "topicos": [
+      "Introdução à linguagem Python",
+      "Estruturas básicas",
+      "Condicionais e de repetição",
+      "Operações aritméticas e operadores de comparação"
+     ],
+     "qtd": 57,
+     "inicio": "01/06/2026",
+     "fim": "12/06/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Rio Grande",
+   "escola": "EMEF HELENA SMALL",
+   "qtd": 101,
+   "inicio": "03/03/2026",
+   "fim": "27/03/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 48,
+     "inicio": "23/03/2026",
+     "fim": "27/03/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 53,
+     "inicio": "03/03/2026",
+     "fim": "20/03/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Rio Grande",
+   "escola": "EMEF MARIA ANGELICA VILLANOVA LEAL CAMPELLO",
+   "qtd": 21,
+   "inicio": "25/05/2026",
+   "fim": "29/05/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 21,
+     "inicio": "25/05/2026",
+     "fim": "29/05/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Rio Grande",
+   "escola": "EMEF OLAVO BILAC",
+   "qtd": 48,
+   "inicio": "18/05/2026",
+   "fim": "29/05/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 27,
+     "inicio": "18/05/2026",
+     "fim": "22/05/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 21,
+     "inicio": "25/05/2026",
+     "fim": "29/05/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Rio Grande",
+   "escola": "EMEF RAMIZ GALVÃO",
+   "qtd": 10,
+   "inicio": "09/03/2026",
+   "fim": "13/03/2026",
+   "cursos": [
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 10,
+     "inicio": "09/03/2026",
+     "fim": "13/03/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Rio Grande",
+   "escola": "EMEF SYLVIA CENTENO XAVIER",
+   "qtd": 21,
+   "inicio": "04/05/2026",
+   "fim": "08/05/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 21,
+     "inicio": "04/05/2026",
+     "fim": "08/05/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Rio Grande",
+   "escola": "EMEF VIRIATO CORRÊA",
+   "qtd": 57,
+   "inicio": "16/03/2026",
+   "fim": "27/03/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 27,
+     "inicio": "16/03/2026",
+     "fim": "20/03/2026"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 30,
+     "inicio": "16/03/2026",
+     "fim": "27/03/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Rio Grande do Sul",
+   "municipio": "Rio Grande",
+   "escola": "IEE JUVENAL MILLER",
+   "qtd": 40,
+   "inicio": "16/03/2026",
+   "fim": "24/04/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 40,
+     "inicio": "16/03/2026",
+     "fim": "24/04/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Roraima",
+   "municipio": "Boa Vista",
+   "escola": "COLÉGIO ESTADUAL MILITARIZADO DR. LUIZ RITTLER BRITO DE LUCENA",
+   "qtd": 2005,
+   "inicio": "13/04/2026",
+   "fim": "21/08/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 943,
+     "inicio": "13/04/2026",
+     "fim": "21/08/2026"
+    },
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 1062,
+     "inicio": "13/04/2026",
+     "fim": "21/08/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Roraima",
+   "municipio": "Boa Vista",
+   "escola": "ESCOLA ESTADUAL MONTEIRO LOBATO",
+   "qtd": 125,
+   "inicio": "22/06/2026",
+   "fim": "11/09/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 55,
+     "inicio": "24/08/2026",
+     "fim": "11/09/2026"
+    },
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 70,
+     "inicio": "22/06/2026",
+     "fim": "11/09/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Roraima",
+   "municipio": "Boa Vista",
+   "escola": "MARIA DAS DORES BRASIL",
+   "qtd": 417,
+   "inicio": "02/03/2026",
+   "fim": "10/04/2026",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 161,
+     "inicio": "02/03/2026",
+     "fim": "10/04/2026"
+    },
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 256,
+     "inicio": "02/03/2026",
+     "fim": "10/04/2026"
+    }
+   ]
+  },
+  {
+   "estado": "Santa Catarina",
+   "municipio": "Florianópolis",
+   "escola": "SAPIENS PARQUE",
+   "qtd": 467,
+   "inicio": "13/01/2025",
+   "fim": "14/03/2025",
+   "cursos": [
+    {
+     "nome": "Desenvolvimento de Jogos",
+     "frase": "desenvolvimento de jogos",
+     "topicos": [
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+     ],
+     "qtd": 73,
+     "inicio": "20/01/2025",
+     "fim": "28/02/2025"
+    },
+    {
+     "nome": "Manutenção de Celulares",
+     "frase": "manutenção de celular",
+     "topicos": [
+      "Especificações",
+      "Apresentação de ferramentas",
+      "Configuração e formatação",
+      "Troca de peças",
+      "Manutenção preventiva"
+     ],
+     "qtd": 85,
+     "inicio": "13/01/2025",
+     "fim": "28/02/2025"
+    },
+    {
+     "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+     "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+     "topicos": [
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
+     ],
+     "qtd": 100,
+     "inicio": "27/01/2025",
+     "fim": "14/03/2025"
+    },
+    {
+     "nome": "Programação em Python",
+     "frase": "programação em Python",
+     "topicos": [
+      "Introdução à linguagem Python",
+      "Estruturas básicas",
+      "Condicionais e de repetição",
+      "Operações aritméticas e operadores de comparação"
+     ],
+     "qtd": 183,
+     "inicio": "13/01/2025",
+     "fim": "28/02/2025"
+    },
+    {
+     "nome": "Robótica",
+     "frase": "robótica",
+     "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
+     ],
+     "qtd": 26,
+     "inicio": "10/02/2025",
+     "fim": "21/02/2025"
+    }
+   ]
+  }
+ ]
+}
