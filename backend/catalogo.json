@@ -1,27 +1,46 @@
 {
-  "Robótica": {
-    "nome": "Robótica",
-    "frase": "robótica",
+  "Canva": {
+    "nome": "Criação de Design com Canva",
+    "frase": "criação de design com Canva",
     "topicos": [
-      "Automação com Arduino",
-      "Montagem de circuito eletrônico",
-      "Impressão e modelagem 3D",
-      "Programação em C++"
+      "Uso de templates",
+      "Manipulação de elementos gráficos e texto",
+      "Criação de artes para mídias sociais",
+      "Formatos de exportação"
     ]
   },
-  "Montagem e Configuração de Computadores de Alto Desempenho (PC GAMER)": {
-    "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
-    "frase": "manutenção de computadores de alto desempenho – PC Gamer",
+  "Desenvolvimento de Jogos": {
+    "nome": "Desenvolvimento de Jogos",
+    "frase": "desenvolvimento de jogos",
     "topicos": [
-      "Compatibilidade de hardware",
-      "Montagem prática",
-      "Instalação e configuração de software",
-      "Teste e análise de desempenho",
-      "Prevenção e resolução de erros"
+      "Criação de personagens",
+      "Programação de eventos utilizando Blueprints",
+      "Design de níveis (level design)"
+    ]
+  },
+  "Impressão 3D": {
+    "nome": "Impressão 3D",
+    "frase": "impressão 3D",
+    "topicos": [
+      "Introdução e aplicações da tecnologia",
+      "Modelagem 3D e edição básica",
+      "Fatiamento e preparação de peças",
+      "Operação de impressoras 3D",
+      "Resolução de problemas e manutenção"
+    ]
+  },
+  "Informática Básica": {
+    "nome": "Informática Básica",
+    "frase": "informática básica",
+    "topicos": [
+      "Noções de digitação",
+      "Uso do teclado",
+      "Configurações básicas do sistema operacional Windows",
+      "Instalação de programas e segurança digital"
     ]
   },
   "Manutenção de Celulares": {
-    "nome": "Manutenção de celulares",
+    "nome": "Manutenção de Celulares",
     "frase": "manutenção de celular",
     "topicos": [
       "Especificações",
@@ -31,25 +50,35 @@
       "Manutenção preventiva"
     ]
   },
-  "Desenvolvimento de Jogos": {
-    "nome": "Desenvolvimento de jogos",
-    "frase": "desenvolvimento de jogos",
+  "Montagem e Configuração de Computadores de Alto Desempenho (PC GAMER)": {
+    "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
+    "frase": "manutenção de computadores de alto desempenho – PC Gamer",
     "topicos": [
-      "Lógica de programação",
-      "Criação de personagens",
-      "Animações",
-      "Level design",
-      "Jogos na prática"
+      "Compatibilidade de Hardware",
+      "Montagem prática",
+      "Instalação e configuração de software",
+      "Teste e análise de desempenho",
+      "Prevenção e resolução de erros"
     ]
   },
   "Programação em Python": {
     "nome": "Programação em Python",
     "frase": "programação em Python",
     "topicos": [
-      "Introdução à linguagem de programação",
-      "Comandos de entrada/saída",
-      "Variáveis e seus tipos",
-      "Estruturas condicionais"
+      "Introdução à linguagem Python",
+      "Estruturas básicas",
+      "Condicionais e de repetição",
+      "Operações aritméticas e operadores de comparação"
+    ]
+  },
+  "Robótica": {
+    "nome": "Robótica",
+    "frase": "robótica",
+    "topicos": [
+      "Automação com Arduino",
+      "Montagem de circuito eletrônico",
+      "Impressão e modelagem 3D",
+      "Programação em C++"
     ]
   }
 }
