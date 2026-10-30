@@ -1,0 +1,416 @@
+
+/* =========================================================
+   01. VARIÁVEIS GLOBAIS E TEMAS
+========================================================= */
+
+:root {
+    color-scheme: light;
+
+    --bg: #f3f6f4;
+    --card: #fff;
+    --tx: #2a3a4d;
+    --mut: #64756d;
+    --ac: #21176b;
+    --hover: #321055;
+    --bd: #dce6e0;
+    --er: #a52e2e;
+    --soft: #f7faf8;
+    --shadow: 0 18px 55px rgba(21,54,41,.08);
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        color-scheme: dark;
+
+        --bg: #0d1541;
+        --card: linear-gradient(90deg, rgb(6, 1, 61), rgba(65, 23, 107, 0.7));
+        --tx: #fafbfa;
+        --mut: #a2b4a9;
+        --ac: #0693a0;
+        --hover: #046241;
+        --bd: #403042;
+        --er: #ff9999;
+        --soft: #3d3d3d;
+        --shadow: 0 18px 55px rgba(0,0,0,.2);
+    }
+}
+
+
+/* =========================================================
+   02. RESET E CONFIGURAÇÕES GERAIS
+========================================================= */
+
+* {
+    box-sizing: border-box;
+}
+
+[hidden] {
+    display: none !important;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    padding: 44px 18px;
+
+    background:
+        radial-gradient(
+            ellipse at 12% 0%,
+            rgba(37,125,88,.08),
+            transparent 34rem
+        ),
+        var(--bg);
+
+    color: var(--tx);
+
+    font: 15px/1.55 Inter, ui-sans-serif, system-ui,
+          -apple-system, "Segoe UI", sans-serif;
+
+        /* Sets your image as the background */
+        background-image: url('../img/school.png');
+        
+        /* Ensures the image stretches to fill the whole screen */
+        background-size: cover;
+        
+        /* Centers the image perfectly */
+        background-position: center;
+        
+        /* Keeps the background from repeating like a grid */
+        background-repeat: no-repeat;
+        
+        /* Optional: Keeps the background still while you scroll */
+        background-attachment: fixed;
+        
+        /* Sets a fallback background color while the image loads */
+        background-color: #f0f0f0;
+        
+        /* Ensures the body takes up at least the full screen height */
+        min-height: 100vh;
+        margin: 0;
+    
+    
+}
+
+/* =========================================================
+   03. LAYOUT PRINCIPAL
+========================================================= */
+
+main {
+    width: min(100%, 760px);
+    margin: 0 auto;
+    padding: 0 0 32px;
+}
+
+main::before {
+    content: "ÁREA DO REQUERENTE";
+
+    display: block;
+    margin: 0 0 7px;
+
+    color: rgb(4, 253, 4);
+
+    font: 800 21px/1.3 system-ui, sans-serif;
+    letter-spacing: .12em;
+    text-shadow: 
+        -1px -1px 14px rgba(11, 11, 11, 0.8),  
+         1px -1px 14px rgba(0, 0, 0, 0.8),
+        -1px  1px 14px rgba(0, 0, 0, 0.8),
+         1px  1px 14px rgba(0, 0, 0, 0.8);
+}
+
+#s1 {
+    max-width: 560px;
+    margin: 0 auto 16px;
+}
+
+#s1 button {
+    width: 100%;
+}
+
+
+/* =========================================================
+   04. TIPOGRAFIA E TÍTULOS
+========================================================= */
+
+h1 {
+    margin: 0 0 5px;
+
+    font-size: clamp(43px, 4vw, 30px);
+    line-height: 1.2;
+    letter-spacing: -.045em;
+    text-shadow: 
+        -1px -1px 14px rgba(11, 11, 11, 0.8),  
+         1px -1px 14px rgba(0, 0, 0, 0.8),
+        -1px  1px 14px rgba(0, 0, 0, 0.8),
+         1px  1px 14px rgba(0, 0, 0, 0.8);
+}
+
+.sub {
+    margin: 0 0 24px;
+
+    color: rgb(6, 252, 252);
+    font-size: 24px;
+    text-shadow: 
+        -1px -1px 14px rgba(11, 11, 11, 0.8),  
+         1px -1px 14px rgba(0, 0, 0, 0.8),
+        -1px  1px 14px rgba(0, 0, 0, 0.8),
+         1px  1px 14px rgba(0, 0, 0, 0.8);
+}
+
+h2 {
+    margin: 0 0 16px;
+    
+    font-size: 19px;
+    line-height: 1.25;
+    letter-spacing: -.025em;
+}
+
+
+/* =========================================================
+   05. CARDS E SEÇÕES
+========================================================= */
+
+section {
+    margin: 0 0 16px;
+    padding: clamp(20px, 4vw, 30px);
+
+    border: 1px solid var(--bd);
+    border-radius: 16px;
+
+    background: var(--card);
+    box-shadow: var(--shadow);
+    
+  
+}
+
+#s4 {
+    border-color: color-mix(in srgb, var(--ac) 30%, var(--bd));
+}
+
+
+/* =========================================================
+   06. FORMULÁRIOS E CAMPOS
+========================================================= */
+
+label {
+    display: block;
+    margin: 15px 0 7px;
+
+    color: var(--tx);
+
+    font: 700 13px/1.4 system-ui, sans-serif;
+}
+
+select {
+    width: 100%;
+    min-height: 46px;
+    padding: 11px 13px;
+
+    border: 1px solid var(--bd);
+    border-radius: 10px;
+
+    background: rgb(102, 103, 105);
+    color: rgb(250, 248, 251);
+    
+    font: 14px system-ui, sans-serif;
+}   
+
+input,
+button {
+    width: 100%;
+    min-height: 46px;
+    padding: 11px 13px;
+
+    border: 1px solid var(--bd);
+    border-radius: 10px;
+
+    background: var(--soft);
+    color: var(--tx);
+
+    font: 14px system-ui, sans-serif;
+}
+
+input::placeholder {
+    color: var(--mut);
+    opacity: .8;
+}
+
+input:focus,
+select:focus {
+    outline: 0;
+
+    border-color: var(--ac);
+    background: rgb(54, 1, 39);
+
+    box-shadow: 0 0 0 3px
+        color-mix(in srgb, var(--ac) 17%, transparent);
+}
+
+
+/* =========================================================
+   07. BOTÕES E INTERAÇÕES
+========================================================= */
+
+button {
+    margin-top: 15px;
+
+    border: 1px solid var(--ac);
+    background: var(--ac);
+    color: #fff;
+
+    font-weight: 750;
+    cursor: pointer;
+
+    transition:
+        background .18s ease,
+        transform .18s ease;
+}
+
+button:hover {
+    background: var(--hover);
+}
+
+button:active {
+    transform: translateY(1px);
+}
+
+button:disabled {
+    opacity: .65;
+    cursor: wait;
+}
+
+button.sec {
+    border-color: var(--bd);
+
+    background: var(--card);
+    color: var(--tx);
+}
+
+button.sec:hover {
+    border-color: var(--ac);
+
+    color: var(--ac);
+    background: var(--soft);
+}
+
+:focus-visible {
+    outline: 3px solid
+        color-mix(in srgb, var(--ac) 45%, transparent);
+
+    outline-offset: 3px;
+}
+
+
+/* =========================================================
+   08. MENSAGENS E EXIBIÇÃO DE DADOS
+========================================================= */
+
+.msg {
+    min-height: 1.25em;
+    margin-top: 9px;
+
+    color: var(--er);
+
+    font: 13px/1.45 system-ui, sans-serif;
+}
+
+dl {
+    display: grid;
+
+    grid-template-columns: minmax(100px, .35fr) 1fr;
+    gap: 9px 15px;
+
+    margin: 0;
+}
+
+dt {
+    color: var(--mut);
+    font-size: 13px;
+}
+
+dd {
+    min-width: 0;
+    margin: 0;
+
+    overflow-wrap: anywhere;
+
+    font-size: 14px;
+    font-weight: 600;
+}
+
+ul {
+    margin: 0;
+    padding-left: 18px;
+
+    font-weight: 500;
+}
+
+
+/* =========================================================
+   09. CONTROLE DE VISIBILIDADE E ANIMAÇÕES
+========================================================= */
+
+#s2:not([hidden]),
+#s3:not([hidden]) {
+    display: block;
+    animation: appear .22s ease-out;
+}
+
+#s2[hidden],
+#s3[hidden],
+#s4[hidden] {
+    display: none !important;
+}
+
+@keyframes appear {
+    from {
+        opacity: 0;
+        transform: translateY(5px);
+    }
+
+    to {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+
+/* =========================================================
+   10. RESPONSIVIDADE
+========================================================= */
+
+@media (max-width: 560px) {
+
+    body {
+        padding: 28px 12px;
+    }
+
+    section {
+        padding: 20px 17px;
+        border-radius: 13px;
+    }
+
+    dl {
+        grid-template-columns: 1fr;
+        gap: 3px;
+    }
+
+    dd {
+        margin-bottom: 9px;
+    }
+}
+
+
+/* =========================================================
+   11. ACESSIBILIDADE E REDUÇÃO DE MOVIMENTO
+========================================================= */
+
+@media (prefers-reduced-motion: reduce) {
+
+    *,
+    *::before,
+    *::after {
+        animation: none !important;
+        transition: none !important;
+    }
+}
