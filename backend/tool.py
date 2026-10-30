@@ -4,7 +4,7 @@
   python tool.py build fonte.csv [--ver-min 1]  # gera docs/data.json
   python tool.py token [--dias 7] [--ver 1]     # imprime uma senha nova
 """
-import argparse, base64, json, re, struct, sys, time
+import argparse, base64, json, re, struct, sys, time, unicodedata
 from datetime import date, datetime, timedelta
 from pathlib import Path
 
@@ -17,6 +17,13 @@ BASE = Path(__file__).resolve().parent
 DOCS = BASE.parent / "docs"
 KEY = BASE / "private_key.pem"  # NUNCA subir ao GitHub
 CATALOGO = BASE / "catalogo.json"  # {"curso na planilha": {"nome": "...", "topicos": [...]}}
+def norm(s):
+    """Chave de comparação: sem acentos, sem caracteres invisíveis, sem maiúsculas, espaços únicos."""
+    s = unicodedata.normalize("NFKD", str(s))
+    s = "".join(ch for ch in s if unicodedata.category(ch) not in ("Mn", "Cf"))
+    return " ".join(s.casefold().split())
+
+
 b64 = lambda b: base64.urlsafe_b64encode(b).rstrip(b"=").decode()
 
 
@@ -32,6 +39,15 @@ def keygen():
     DOCS.mkdir(exist_ok=True)
     (DOCS / "pubkey.json").write_text(json.dumps({"pub": b64(pub)}))
     print("Chaves criadas. Guarde private_key.pem fora do repositório.")
+
+
+def pubkey():
+    """Recria docs/pubkey.json a partir da chave privada existente."""
+    k = serialization.load_pem_private_key(KEY.read_bytes(), None)
+    pub = k.public_key().public_bytes(serialization.Encoding.X962, serialization.PublicFormat.UncompressedPoint)
+    DOCS.mkdir(exist_ok=True)
+    (DOCS / "pubkey.json").write_text(json.dumps({"pub": b64(pub)}))
+    print("pubkey.json gravado em", DOCS)
 
 
 def token(dias, ver):
@@ -84,6 +100,8 @@ def build(src, ver_min):
     for c in ["ESTADO", "MUNICÍPIO", "ESCOLA", "CURSO"]:
         df[c] = df[c].astype(str).str.split().str.join(" ")
     df["ESTADO"] = df["ESTADO"].str.replace(r",\s*Brasil$", "", regex=True)
+    for c in ["ESTADO", "MUNICÍPIO", "ESCOLA", "CURSO"]:   # chaves de agrupamento sem acento/caixa/invisíveis
+        df["K_" + c] = df[c].map(norm)
     df["ADE"] = df["DATA DE ADESÃO"].map(pdate)
     df["CON"] = df["DATA DE CONCLUSÃO DO CURSO"].map(pdate)
 
@@ -94,23 +112,29 @@ def build(src, ver_min):
     if df["ID"].duplicated().any():
         print(f"AVISO: {df['ID'].duplicated().sum()} IDs repetidos (contados como matrículas distintas).")
 
-    cat = json.loads(CATALOGO.read_text(encoding="utf-8")) if CATALOGO.exists() else {}
+    cat = {norm(k): v for k, v in json.loads(CATALOGO.read_text(encoding="utf-8")).items()} \
+        if CATALOGO.exists() else {}
     faltam, escolas = set(), []
     fmt = lambda d: d.strftime("%d/%m/%Y")
-    for (uf, mun, esc), g in df.groupby(["ESTADO", "MUNICÍPIO", "ESCOLA"]):  # chave: estado+município+escola
+    for _, g in df.groupby(["K_ESTADO", "K_MUNICÍPIO", "K_ESCOLA"]):  # chave: estado+município+escola
+        uf, mun, esc = g.ESTADO.iloc[0], g["MUNICÍPIO"].iloc[0], g.ESCOLA.iloc[0]
         cursos = []
-        for cur, gc in g.groupby("CURSO"):
-            c = cat.get(cur)
+        for ck, gc in g.groupby("K_CURSO"):
+            cur = gc.CURSO.iloc[0]
+            c = cat.get(ck)
             if c is None:
                 faltam.add(cur)
             c = c or {}
-            cursos.append({"nome": c.get("nome", cur), "topicos": c.get("topicos", []), "qtd": len(gc)})
+            nome = c.get("nome", cur)
+            cursos.append({"nome": nome, "frase": c.get("frase", nome.lower()),
+                           "topicos": c.get("topicos", []), "qtd": len(gc),
+                           "inicio": fmt(gc.ADE.min()), "fim": fmt(gc.CON.max())})
         escolas.append({"estado": uf, "municipio": mun, "escola": esc, "qtd": len(g),
                         "inicio": fmt(g.ADE.min()), "fim": fmt(g.CON.max()), "cursos": cursos})
     if faltam:
         print("AVISO: cursos fora do catálogo (usado o nome da planilha):")
         for f in sorted(faltam):
-            print("  -", f)
+            print("  -", repr(f))
 
     DOCS.mkdir(exist_ok=True)
     out = {"ver_min": ver_min, "gerado": datetime.now().strftime("%d/%m/%Y %H:%M"), "escolas": escolas}
@@ -122,8 +146,9 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     sp = ap.add_subparsers(dest="cmd", required=True)
     sp.add_parser("keygen")
+    sp.add_parser("pubkey")
     b = sp.add_parser("build"); b.add_argument("fonte"); b.add_argument("--ver-min", type=int, default=1)
     t = sp.add_parser("token"); t.add_argument("--dias", type=int, default=7); t.add_argument("--ver", type=int, default=1)
     a = ap.parse_args()
-    {"keygen": keygen, "build": lambda: build(a.fonte, a.ver_min), "token": lambda: token(a.dias, a.ver)}[a.cmd]() \
-        if a.cmd != "keygen" else keygen()
+    {"keygen": keygen, "pubkey": pubkey, "build": lambda: build(a.fonte, a.ver_min),
+     "token": lambda: token(a.dias, a.ver)}[a.cmd]()
