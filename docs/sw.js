@@ -1,5 +1,5 @@
 // Mude V ao alterar index.html, modelo.docx ou bibliotecas, para forçar atualização.
-const V = "v3";
+const V = "v5";
 const SHELL = ["./", "index.html", "modelo.docx", "lib/pizzip.min.js", "lib/docxtemplater.js", "data.json", "pubkey.json"];
 
 self.addEventListener("install", e => {
