@@ -183,6 +183,16 @@ section {
   
 }
 
+#s0 {
+    margin: 0 0 16px;
+    padding: clamp(20px, 4vw, 30px);
+
+    border: 1px solid var(--bd);
+    border-radius: 16px;
+
+    background: linear-gradient(180deg, rgb(2, 78, 60), rgba(8, 8, 8, 0.9));
+    /* box-shadow: var(--shadow); */
+}
 #s4 {
     border-color: color-mix(in srgb, var(--ac) 30%, var(--bd));
 }
@@ -234,6 +244,9 @@ input::placeholder {
     color: var(--mut);
     opacity: .8;
 }
+
+.ck{display:flex;align-items:center;font-weight:400;margin:12px 0}
+
 
 input:focus,
 select:focus {
