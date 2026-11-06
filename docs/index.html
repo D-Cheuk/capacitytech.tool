@@ -3,15 +3,15 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#123d32">
-<meta name="description" content="Solicitação e emissão de Atestado de Capacidade Técnica.">
-<title>Atestado de Capacidade Técnica - Carreta Digital</title>
-<link rel="stylesheet" href="css/style.css">
+<title>Atestado de Capacidade Técnica</title>
+<link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
 <main>
-  <h1>Atestado de Capacidade Técnica</h1>
-  <p class="sub">Informe a senha, selecione a escola e baixe o atestado preenchido.</p>
+  <section id="s0">
+    <h1>Atestado de Capacidade Técnica</h1>
+    <p class="sub">Informe a senha, selecione a escola e baixe o atestado preenchido.</p>
+  </section>
 
   <section id="s1">
     <h2>Acesso</h2>
@@ -21,31 +21,27 @@
     <div class="msg" id="m1" role="alert"></div>
   </section>
 
-  <section id="s2" hidden>
-    <h2>Seus dados</h2>
-    <label for="nome">Nome completo</label><input id="nome">
-    <label for="cargo">Cargo</label><input id="cargo" placeholder="Ex.: DIRETORA">
-    <label for="cpf">CPF</label><input id="cpf" inputmode="numeric" maxlength="14">
-  </section>
-
   <section id="s3" hidden>
     <h2>Escola</h2>
     <label for="uf">Estado</label><select id="uf"></select>
+    <label class="ck" id="tw" hidden><input type="checkbox" style="width:auto;margin-right:10px" id="todas">Todas as escolas deste estado   (gera um .zip)</label>
     <label for="esc">Escola</label><select id="esc"></select>
-    <label for="end">Endereço da escola</label><input id="end" placeholder="Ex.: SGAN Quadra 907, Asa Norte, Brasília – DF">
   </section>
 
   <section id="s4" hidden>
     <h2>Confira os dados</h2>
     <div id="resumo"></div>
-    <button id="gerar">Baixar atestado (.docx)</button>
-    <button id="corrigir" class="sec">Solicitar correção por e-mail</button>
-    <div class="msg" id="m4" role="alert"></div>
+    <button id="bpdf">Baixar em .PDF (via Google)</button>
+    <button id="bdocx" class="bpdf">Baixar em .DOCX Word (via GitHub)</button>
+    <p>
+      <a href="https://wa.me/5561999908050" target="_blank" id="corrigir" class="sec">Solicitar correção por WhatsApp</a>
+    </p>
+    <div class="msg" id="m4" role="status"></div>
   </section>
 </main>
 
-<script src="lib/pizzip.min.js" defer></script>
-<script src="lib/docxtemplater.js" defer></script>
-<script src="js/app.js" defer></script>
+<script src="lib/pizzip.min.js"></script>
+<script src="lib/docxtemplater.js"></script>
+<script src="js/app.js"></script>
 </body>
 </html>
