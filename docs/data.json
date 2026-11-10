@@ -1,6 +1,6 @@
 {
  "ver_min": 1,
- "gerado": "10/11/2026 08:41",
+ "gerado": "10/11/2026 08:51",
  "escolas": [
   {
    "estado": "Distrito Federal",
@@ -109,8 +109,8 @@
    "municipio": "Asa Norte",
    "escola": "GISNO",
    "qtd": 129,
-   "inicio": "02/10/2024",
-   "fim": "27/09/2024",
+   "inicio": "27/09/2024",
+   "fim": "07/10/2024",
    "cursos": [
     {
      "nome": "Manutenção de Celulares",
@@ -123,8 +123,8 @@
       "Manutenção preventiva"
      ],
      "qtd": 35,
-     "inicio": "05/10/2024",
-     "fim": "27/09/2024"
+     "inicio": "27/09/2024",
+     "fim": "07/10/2024"
     },
     {
      "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
@@ -137,8 +137,8 @@
       "Prevenção e resolução de erros"
      ],
      "qtd": 70,
-     "inicio": "02/10/2024",
-     "fim": "27/09/2024"
+     "inicio": "27/09/2024",
+     "fim": "07/10/2024"
     },
     {
      "nome": "Robótica",
@@ -150,8 +150,8 @@
       "Programação em C++"
      ],
      "qtd": 24,
-     "inicio": "05/10/2024",
-     "fim": "27/09/2024"
+     "inicio": "27/09/2024",
+     "fim": "07/10/2024"
     }
    ]
   },
@@ -2634,8 +2634,8 @@
    "municipio": "Campo Grande",
    "escola": "GOVERNO DO BRASIL NA RUA",
    "qtd": 4,
-   "inicio": "07/02/2026",
-   "fim": "06/02/2026",
+   "inicio": "06/02/2026",
+   "fim": "07/02/2026",
    "cursos": [
     {
      "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
@@ -2648,8 +2648,8 @@
       "Prevenção e resolução de erros"
      ],
      "qtd": 4,
-     "inicio": "07/02/2026",
-     "fim": "06/02/2026"
+     "inicio": "06/02/2026",
+     "fim": "07/02/2026"
     }
    ]
   },
@@ -3770,8 +3770,8 @@
    "municipio": "Teresina",
    "escola": "GOVERNO DO BRASIL NA RUA",
    "qtd": 65,
-   "inicio": "06/03/2026",
-   "fim": "07/03/2026",
+   "inicio": "06/02/2026",
+   "fim": "07/02/2026",
    "cursos": [
     {
      "nome": "Montagem e configuração de computadores de alto desempenho – PC Gamer",
@@ -3784,8 +3784,8 @@
       "Prevenção e resolução de erros"
      ],
      "qtd": 31,
-     "inicio": "07/03/2026",
-     "fim": "07/03/2026"
+     "inicio": "06/02/2026",
+     "fim": "07/02/2026"
     },
     {
      "nome": "Robótica",
@@ -3797,8 +3797,8 @@
       "Programação em C++"
      ],
      "qtd": 34,
-     "inicio": "06/03/2026",
-     "fim": "06/03/2026"
+     "inicio": "06/02/2026",
+     "fim": "07/02/2026"
     }
    ]
   },
