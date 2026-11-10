@@ -1,6 +1,6 @@
 {
  "ver_min": 1,
- "gerado": "30/10/2026 13:16",
+ "gerado": "10/11/2026 08:41",
  "escolas": [
   {
    "estado": "Distrito Federal",
@@ -108,7 +108,7 @@
    "estado": "Distrito Federal",
    "municipio": "Asa Norte",
    "escola": "GISNO",
-   "qtd": 66,
+   "qtd": 129,
    "inicio": "02/10/2024",
    "fim": "27/09/2024",
    "cursos": [
@@ -122,7 +122,7 @@
       "Troca de peças",
       "Manutenção preventiva"
      ],
-     "qtd": 2,
+     "qtd": 35,
      "inicio": "05/10/2024",
      "fim": "27/09/2024"
     },
@@ -136,7 +136,7 @@
       "Teste e análise de desempenho",
       "Prevenção e resolução de erros"
      ],
-     "qtd": 49,
+     "qtd": 70,
      "inicio": "02/10/2024",
      "fim": "27/09/2024"
     },
@@ -149,7 +149,7 @@
       "Impressão e modelagem 3D",
       "Programação em C++"
      ],
-     "qtd": 15,
+     "qtd": 24,
      "inicio": "05/10/2024",
      "fim": "27/09/2024"
     }
@@ -159,7 +159,7 @@
    "estado": "Distrito Federal",
    "municipio": "Asa Sul",
    "escola": "SETOR OESTE",
-   "qtd": 71,
+   "qtd": 209,
    "inicio": "16/10/2024",
    "fim": "20/12/2024",
    "cursos": [
@@ -173,7 +173,7 @@
       "Troca de peças",
       "Manutenção preventiva"
      ],
-     "qtd": 60,
+     "qtd": 91,
      "inicio": "16/10/2024",
      "fim": "20/12/2024"
     },
@@ -187,9 +187,9 @@
       "Teste e análise de desempenho",
       "Prevenção e resolução de erros"
      ],
-     "qtd": 11,
+     "qtd": 118,
      "inicio": "19/11/2024",
-     "fim": "18/10/2024"
+     "fim": "20/12/2024"
     }
    ]
   },
@@ -284,7 +284,7 @@
    "estado": "Distrito Federal",
    "municipio": "Cruzeiro Novo",
    "escola": "CEFAB",
-   "qtd": 92,
+   "qtd": 97,
    "inicio": "03/10/2024",
    "fim": "01/11/2024",
    "cursos": [
@@ -298,7 +298,7 @@
       "Troca de peças",
       "Manutenção preventiva"
      ],
-     "qtd": 15,
+     "qtd": 18,
      "inicio": "03/10/2024",
      "fim": "04/10/2024"
     },
@@ -312,7 +312,7 @@
       "Teste e análise de desempenho",
       "Prevenção e resolução de erros"
      ],
-     "qtd": 53,
+     "qtd": 54,
      "inicio": "03/10/2024",
      "fim": "01/11/2024"
     },
@@ -325,7 +325,7 @@
       "Impressão e modelagem 3D",
       "Programação em C++"
      ],
-     "qtd": 24,
+     "qtd": 25,
      "inicio": "03/10/2024",
      "fim": "04/10/2024"
     }
@@ -373,7 +373,7 @@
    "estado": "Distrito Federal",
    "municipio": "Lago Norte",
    "escola": "CEDLAN",
-   "qtd": 78,
+   "qtd": 112,
    "inicio": "11/09/2024",
    "fim": "27/09/2024",
    "cursos": [
@@ -387,7 +387,7 @@
       "Troca de peças",
       "Manutenção preventiva"
      ],
-     "qtd": 46,
+     "qtd": 62,
      "inicio": "11/09/2024",
      "fim": "27/09/2024"
     },
@@ -401,7 +401,7 @@
       "Teste e análise de desempenho",
       "Prevenção e resolução de erros"
      ],
-     "qtd": 32,
+     "qtd": 50,
      "inicio": "17/09/2024",
      "fim": "27/09/2024"
     }
@@ -538,7 +538,7 @@
    "estado": "Distrito Federal",
    "municipio": "Sobradinho",
    "escola": "CEF 04 DE SOBRADINHO",
-   "qtd": 227,
+   "qtd": 229,
    "inicio": "06/05/2025",
    "fim": "16/05/2025",
    "cursos": [
@@ -565,7 +565,7 @@
       "Teste e análise de desempenho",
       "Prevenção e resolução de erros"
      ],
-     "qtd": 163,
+     "qtd": 165,
      "inicio": "06/05/2025",
      "fim": "16/05/2025"
     },
@@ -639,7 +639,7 @@
    "estado": "Distrito Federal",
    "municipio": "Vila Estrutural",
    "escola": "CED 01 ESTRUTURAL",
-   "qtd": 174,
+   "qtd": 177,
    "inicio": "21/10/2024",
    "fim": "20/12/2024",
    "cursos": [
@@ -653,7 +653,7 @@
       "Troca de peças",
       "Manutenção preventiva"
      ],
-     "qtd": 64,
+     "qtd": 65,
      "inicio": "21/10/2024",
      "fim": "01/11/2024"
     },
@@ -667,7 +667,7 @@
       "Teste e análise de desempenho",
       "Prevenção e resolução de erros"
      ],
-     "qtd": 110,
+     "qtd": 112,
      "inicio": "21/10/2024",
      "fim": "20/12/2024"
     }
@@ -2220,7 +2220,7 @@
    "estado": "Mato Grosso do Sul",
    "municipio": "Amambai",
    "escola": "ESCOLA MUNICIPAL POLO INDÍGENA MBO'EROY GUARANI KAIOWA",
-   "qtd": 139,
+   "qtd": 149,
    "inicio": "15/01/2026",
    "fim": "30/01/2026",
    "cursos": [
@@ -2248,7 +2248,7 @@
       "Teste e análise de desempenho",
       "Prevenção e resolução de erros"
      ],
-     "qtd": 47,
+     "qtd": 56,
      "inicio": "15/01/2026",
      "fim": "30/01/2026"
     },
@@ -2261,7 +2261,7 @@
       "Impressão e modelagem 3D",
       "Programação em C++"
      ],
-     "qtd": 41,
+     "qtd": 42,
      "inicio": "15/01/2026",
      "fim": "30/01/2026"
     }
@@ -2271,7 +2271,7 @@
    "estado": "Mato Grosso do Sul",
    "municipio": "Amambai",
    "escola": "ESCOLA MUNICIPAL TUPÃ NANDEVA",
-   "qtd": 137,
+   "qtd": 162,
    "inicio": "25/02/2026",
    "fim": "06/03/2026",
    "cursos": [
@@ -2285,7 +2285,7 @@
       "Teste e análise de desempenho",
       "Prevenção e resolução de erros"
      ],
-     "qtd": 52,
+     "qtd": 68,
      "inicio": "25/02/2026",
      "fim": "06/03/2026"
     },
@@ -2298,7 +2298,7 @@
       "Impressão e modelagem 3D",
       "Programação em C++"
      ],
-     "qtd": 85,
+     "qtd": 94,
      "inicio": "25/02/2026",
      "fim": "06/03/2026"
     }
@@ -2657,7 +2657,7 @@
    "estado": "Mato Grosso do Sul",
    "municipio": "Campo Grande",
    "escola": "INSTITUTO MIRIM",
-   "qtd": 431,
+   "qtd": 432,
    "inicio": "03/12/2024",
    "fim": "28/02/2025",
    "cursos": [
@@ -2698,7 +2698,7 @@
       "Impressão e modelagem 3D",
       "Programação em C++"
      ],
-     "qtd": 119,
+     "qtd": 120,
      "inicio": "09/12/2024",
      "fim": "28/02/2025"
     }
@@ -2708,9 +2708,9 @@
    "estado": "Mato Grosso do Sul",
    "municipio": "Campo Grande",
    "escola": "SESC LAGEADO",
-   "qtd": 125,
+   "qtd": 286,
    "inicio": "28/10/2024",
-   "fim": "29/11/2024",
+   "fim": "20/12/2024",
    "cursos": [
     {
      "nome": "Manutenção de Celulares",
@@ -2722,7 +2722,7 @@
       "Troca de peças",
       "Manutenção preventiva"
      ],
-     "qtd": 46,
+     "qtd": 89,
      "inicio": "28/10/2024",
      "fim": "29/11/2024"
     },
@@ -2736,7 +2736,7 @@
       "Teste e análise de desempenho",
       "Prevenção e resolução de erros"
      ],
-     "qtd": 28,
+     "qtd": 79,
      "inicio": "28/10/2024",
      "fim": "29/11/2024"
     },
@@ -2749,9 +2749,9 @@
       "Impressão e modelagem 3D",
       "Programação em C++"
      ],
-     "qtd": 51,
+     "qtd": 118,
      "inicio": "28/10/2024",
-     "fim": "29/11/2024"
+     "fim": "20/12/2024"
     }
    ]
   },
